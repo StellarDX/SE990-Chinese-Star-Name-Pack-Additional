@@ -1,0 +1,58 @@
+Remove "KAP Cep"
+StarBarycenter "天柱增二/KAP Cep/1 Cep/BD+77 764/HD 192907/HIP 99255/HR 7750/SAO 9665/GSC 04589-03106"
+{
+	/*Observation data*/
+	RA      20 8 49.42
+	Dec     77 42 26.3
+	AppMagn 4.35
+	/*Characteristics*/
+	Class   "B9III"
+	/*Astrometry*/
+	Dist    99
+	AbsMagn -0.66
+}
+
+Remove "74 Dra"
+Star "天柱增三/74 Dra/HD 196925/LTT 16007/ASCC 55843/CCDM J20297+8106A/GCRV 12874/HIC 101082/HIP 101082/HR 7908/IDS 20353+8044 A/IRAS 20324+8055/LSPM J2029+8105/2MASS J20292752+8105284/NLTT 49503/PLX 4928/PPM 3600/SAO 3413/UBV 17931/UBV 17932/WDS J20295+8105A/TYC 4597-1694-1/AG+80 431/BD+80 660/CSI+80 660 1/Gaia DR1 2298101347842525056/WEB 18255/Gaia DR2 2298101352139398144"
+{
+	/*Observation data*/
+	RA      20 29 23.27
+	Dec     81 5 18.1
+	AppMagn 5.96
+	/*Characteristics*/
+	Class   "K0II"
+	/*Astrometry*/
+	Dist    64.3637
+	AbsMagn 1.94
+}
+
+Remove "75 Dra"
+Star "天柱增四/75 Dra/STH 7/BUP 211/HIP 100965/SAO 3408/HD 196787/HR 7901/WDS J20282+8125"
+{
+	/*Observation data*/
+	RA      20 28 8.63
+	Dec     81 25 7.9
+	AppMagn 5.35
+	/*Characteristics*/
+	Class   "G9III"
+	/*Astrometry*/
+	Dist    134
+	AbsMagn -0.29
+}
+
+Remove "35 Dra"
+Star "天柱增六/35 Dra/HD 163989/LTT 15293/ASCC 47830/FK5 675/GCRV 10352/HIC 87234/HIP 87234/HR 6701/IRAS 17516+7658/LSPM J1749+7657/2MASS J17492701+7657464/N30 3979/NLTT 45633/PLX 4105/PMC 90-93 481/PPM 9652/ROT 2514/SAO 8939/TD1 21337/UBV 15279/uvby98 100163989/PLX 4105.00/UBV M 22513/TYC 4573-1916-1/AG+76 656/BD+76 667/WEB 14719/Gaia DR2 1656990278194865664"
+{
+	/*Observation data*/
+	RA      17 49 26.36
+	Dec     76 57 31.8
+	AppMagn 5.04
+	/*Characteristics*/
+	Class   "F6IV" // F5
+	/*Astrometry*/
+	Dist    31.3519
+	AbsMagn 2.51
+  /*Details*/
+  Luminosity 8.59
+  Teff    6262
+}
