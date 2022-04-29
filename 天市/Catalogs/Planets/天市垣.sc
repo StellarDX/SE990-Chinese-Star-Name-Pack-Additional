@@ -2,11 +2,11 @@
 Barycenter	"HD 159480 A/BD+09 3424/GC 23824/SAO 122526"
 {
 	ParentBody     "HD 159480"
-	Orbit
+	BinaryOrbit
 	{
-		Period          204169.48201303
-		ArgOfPericenter 10
-		MeanAnomaly     0
+		Epoch           2455562.19758469
+		Separation      4705.92
+		PositionAngle   190
 	}
 }
 
@@ -20,11 +20,9 @@ Star	"HD 159480 Aa"
 	Teff           9311
   FeH            0.21
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          172.69387244
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      42.089
 	}
 }
 
@@ -33,11 +31,9 @@ Star	"HD 159480 Ab"
 	ParentBody     "HD 159480 A"
 	Class          "F9 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          172.69387244
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      42.089
 	}
 }
 
@@ -49,11 +45,11 @@ Star	"HD 159480 B/BD+09 3423/GC 23823/SAO 122525"
   Luminosity     7.74
   Teff           7344
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          204169.48201303
-		ArgOfPericenter 190
-		MeanAnomaly     0
+		Epoch           2455562.19758469
+		Separation      4705.92
+		PositionAngle   190
 	}
 }
 
@@ -63,24 +59,20 @@ Star	"HD 152879 A"
 	ParentBody     "HD 152879"
 	Class          "K4III"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          4564.67489263
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      275.176
 	}
 }
 
-Star	"HD 159480 B"
+Star	"HD 152879 B"
 {
 	ParentBody     "HD 152879"
 	Class          "F1.6 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          4564.67489263
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      275.176
 	}
 }
 
@@ -261,11 +253,9 @@ Star "HD 165777 A"
 	FeH        0.09
 	Age        0.25
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          12156.25918392 // 25"
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      665 // 25"
 	}
 }
 
@@ -274,11 +264,9 @@ Star "HD 165777 B"
 	ParentBody "HD 165777"
 	Class      "F3.8 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          12156.25918392 // 25"
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      665 // 25"
 	}
 }
 
@@ -291,11 +279,9 @@ Star "HD 166233 A"
 	Luminosity 12.98
 	Teff       6918
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          88.62434751
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      19.878
 	}
 }
 
@@ -304,11 +290,9 @@ Star "HD 166233 B"
 	ParentBody "HD 166233"
 	Class      "F8.6 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          88.62434751
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      19.878
 	}
 }
 
@@ -552,11 +536,9 @@ Star "HD 140232 A"
 	FeH        0.52
 	Age        0.7
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          1032.22677268
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      121.9
 	}
 }
 
@@ -566,11 +548,9 @@ Star "HD 140232 B"
 	Class      "M"
 	MassSol    0.58
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          1032.22677268
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      121.9
 	}
 }
 
@@ -578,11 +558,9 @@ Star "HD 140232 B"
 Barycenter	"HD 140159 AB"
 {
 	ParentBody     "HD 140159"
-	Orbit
+	BinaryOrbit
 	{
-		Period          378473.01047738
-		ArgOfPericenter 10
-		MeanAnomaly     0
+		Separation      8294
 	}
 }
 
@@ -627,11 +605,9 @@ Star "HD 140159 C"
 	ParentBody "HD 140159"
 	Class      "F8.2 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          378473.01047738
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      8294
 	}
 }
 
@@ -949,11 +925,9 @@ Star "HD 164136 A"
 	Age        0.2
 	Oblateness 0
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          541.88742241
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      115.96
 	}
 }
 
@@ -962,11 +936,9 @@ Star "HD 164136 B"
 	ParentBody "HD 164136"
 	Class      "B9.5"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          541.88742241
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      115.96
 	}
 }
 
@@ -1055,11 +1027,9 @@ Star "SAO 85753/HD 166045/HR 6781"
 	ParentBody "HIP 88817"
 	Class      "A3V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          31238.90891048
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      991.9
 	}
 }
 
@@ -1068,11 +1038,9 @@ Star "中山增七/SAO 85752/HD 166046/HR 6782"
 	ParentBody "HIP 88817"
 	Class      "A3V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          31238.90891048
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      991.9
 	}
 }
 
@@ -1188,10 +1156,9 @@ Star "HD 180968 A"
 
 	Orbit
 	{
-		Period          8682.48354132
 		Epoch           2452275.01779566
-		ArgOfPericenter 307.2
-		MeanAnomaly     0
+		Separation      980.4
+		PositionAngle   127.2
 	}
 }
 
@@ -1202,10 +1169,9 @@ Star "HD 180968 B"
 
 	Orbit
 	{
-		Period          8682.48354132
 		Epoch           2452275.01779566
-		ArgOfPericenter 127.2
-		MeanAnomaly     0
+		Separation      980.4
+		PositionAngle   127.2
 	}
 }
 
@@ -1363,11 +1329,9 @@ Star "HD 176411 B"
 Barycenter "HD 178125 A"
 {
 	ParentBody "HD 178125"
-	Orbit
+	BinaryOrbit
 	{
-		Period          349.32394532
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      49.6009
 	}
 }
 
@@ -1404,11 +1368,9 @@ Star "HD 178125 B"
 	ParentBody "HD 178125"
 	Class      "F2.4 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          349.32394532
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      49.6009
 	}
 }
 
@@ -1633,11 +1595,9 @@ Star	"HD 151237 A"
 	ParentBody     "HD 151237"
 	Class          "F8II"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          38573.89490055
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      38573.89490055
 	}
 }
 
@@ -1646,11 +1606,9 @@ Star	"HD 151237 B"
 	ParentBody     "HD 151237"
 	Class          "F9.4 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          38573.89490055
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      38573.89490055
 	}
 }
 
@@ -1749,9 +1707,11 @@ Planet	"HD 142091 b"
 }
 
 // 贯索增六(PM**?)
-Star "HD 142908 A"
+Remove "TAU CrB A"{ParentBody "TAU CrB"}
+Remove "TAU CrB B"{ParentBody "TAU CrB"}
+Star "HD 145328 A"
 {
-	ParentBody "HD 142908"
+	ParentBody "HD 145328"
 	Class 	   "K1III"
 	RadSol     6
 	Luminosity 16.2
@@ -1760,24 +1720,22 @@ Star "HD 142908 A"
 
 	Orbit
 	{
-		Period          704.82580129
 		Epoch           2456657.92418103
-		ArgOfPericenter 6
-		MeanAnomaly     0
+		Separation      79.2
+		PositionAngle   186
 	}
 }
 
-Star "HD 142908 B(?)"
+Star "HD 145328 B(?)"
 {
-	ParentBody "HD 142908"
+	ParentBody "HD 145328"
 	Class      "K3.7 V"
 
 	Orbit
 	{
-		Period          704.82580129
 		Epoch           2456657.92418103
-		ArgOfPericenter 186
-		MeanAnomaly     0
+		Separation      79.2
+		PositionAngle   186
 	}
 }
 
@@ -1792,22 +1750,18 @@ Remove "SIG CrB Ab"{ParentBody "SIG CrB A"}
 Barycenter "贯索增七/SIG CrB AB/HIP 79607 AB"
 {
 	ParentBody "SIG CrB"
-	Orbit
+	BinaryOrbit
 	{
-		Period          922118.19644795
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      14000
 	}
 }
 
 Barycenter "SIG CrB C/GJ 9549/HIP 79551 C/WDS J16147+3352E/G 180-42"
 {
 	ParentBody "SIG CrB"
-	Orbit
+	BinaryOrbit
 	{
-		Period          922118.19644795
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      14000
 	}
 }
 
