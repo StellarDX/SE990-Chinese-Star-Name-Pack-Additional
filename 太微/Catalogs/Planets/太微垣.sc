@@ -4,11 +4,9 @@ Star "HD 100600 A"
 	ParentBody "HD 100600"
 	Class      "B6.6IV"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          97804.23034076
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      2122.8
 	}
 }
 
@@ -17,11 +15,9 @@ Star "HD 100600 B"
 	ParentBody "HD 100600"
 	Class      "B3.7V"
 
-	Orbit
+	BinaryOrbit
 	{
-    Period          97804.23034076
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      2122.8
 	}
 }
 
@@ -225,9 +221,9 @@ Star "HD 107383 A"
 
 	Orbit
 	{
-		Period          18171.40083483 // 8.8"
-		ArgOfPericenter 224
-		MeanAnomaly     0
+		Epoch           2454101.22878957
+		Separation      818.4 // 8.8"
+		PositionAngle   44
 	}
 }
 
@@ -238,9 +234,9 @@ Star "HD 107383 B"
 
 	Orbit
 	{
-		Period          18171.40083483
-		ArgOfPericenter 44
-		MeanAnomaly     0
+		Epoch           2454101.22878957
+		Separation      818.4 // 8.8"
+		PositionAngle   44
 	}
 }
 
@@ -374,11 +370,9 @@ Star	"HD 117176 A"
 	FeH            -0.06
 	Age            7.9
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          346.39964518
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      51.2226
 	}
 }
 
@@ -388,11 +382,9 @@ Star	"HD 117176 B"
 	Class          "M5V"
 	MassSol        0.08
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          346.39964518
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      51.2226
 	}
 }
 
@@ -650,12 +642,14 @@ Star	"HD 92769 A"
 {
 	ParentBody     "HD 92769"
 	Class          "A4Vn"
+	RadSol         1.85
+	Luminosity     10.72
+	Teff           8017
+	FeH            -0.2
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          25053.14099516
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      856.207
 	}
 }
 
@@ -664,11 +658,9 @@ Star	"HD 92769 B"
 	ParentBody     "HD 92769"
 	Class          "G5.4 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          25053.14099516
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      856.207
 	}
 }
 
@@ -887,11 +879,9 @@ Star	"HD 92841 A"
 	Luminosity     189.87
 	Teff           4558
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          39126.62423702
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      1150.84
 	}
 }
 
@@ -900,11 +890,9 @@ Star	"HD 92841 B"
 	ParentBody     "HD 92841"
 	Class          "K1II"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          39126.62423702
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      1150.84
 	}
 }
 
@@ -953,11 +941,9 @@ Star	"HD 96436 A"
 	ParentBody     "HD 96436"
 	Class          "K0III"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          2181.58298435
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      168.21
 	}
 }
 
@@ -966,11 +952,9 @@ Star	"HD 96436 B"
 	ParentBody     "HD 96436"
 	Class          "M2.7 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          2181.58298435
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      168.21
 	}
 }
 
@@ -988,11 +972,9 @@ Star	"HD 107705 A"
 	FeH            0.04
 	Age            2.5
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          19532.89699158
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      623.832
 	}
 }
 
@@ -1002,10 +984,8 @@ Star	"HD 107705 B"
 	Class          "K5V"
 	MassSol        0.75
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          19532.89699158
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      623.832
 	}
 }
