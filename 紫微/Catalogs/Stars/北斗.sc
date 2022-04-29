@@ -52,6 +52,13 @@ StarBarycenter "天璇增一/36 UMa/BD+56 1459/FK5 394/HD 90839/HIP 51459/HR 411
 	/*Astrometry*/
 	Dist    12.78
 	AbsMagn 4.24
+
+	MassSol    1.121
+	RadSol     1.091
+	Luminosity 1.605
+	Teff       6233
+	FeH        -0.18
+	Age        2.7
 }
 
 Remove "37 UMa"

@@ -76,12 +76,11 @@ Star	"HD 216446 A"
 	Teff            4288
   FeH             -0.1
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          6352.36144859 // 3.5"
 		Epoch           2448622.59580785 // B1992
-		ArgOfPericenter 218 // position angle 38
-		MeanAnomaly     0
+		Separation      343
+		PositionAngle   38
 	}
 }
 
@@ -90,12 +89,11 @@ Star	"HD 216446 B"
 	ParentBody     "HD 216446"
 	Class          "T8.3 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          6352.36144859 // 3.5"
 		Epoch           2448622.59580785 // B1992
-		ArgOfPericenter 38 // position angle 38
-		MeanAnomaly     0
+		Separation      343
+		PositionAngle   38
 	}
 }
 
@@ -164,12 +162,11 @@ Star	"HD 192907 A"
 	FeH            -0.05
 	Age            0.302
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          11179.63518808 // 7.3"
 		Epoch           2457023.16637981 // B2015
-		ArgOfPericenter 300 // 120
-		MeanAnomaly     0
+		Separation      722.7
+		PositionAngle   120
 	}
 }
 
@@ -181,12 +178,11 @@ Star	"HD 192907 B"
 	Luminosity     4.05
 	Teff           7119
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          11179.63518808 // 7.3"
 		Epoch           2457023.16637981 // B2015
-		ArgOfPericenter 120 // 120
-		MeanAnomaly     0
+		Separation      722.7
+		PositionAngle   120
 	}
 }
 
@@ -326,11 +322,9 @@ Star "HD 153697 A"
 	Class      "F2.2V" // F0 F1?
 	Teff       6902
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          667.52011205 // 1.13+0.01 Asec
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      76.3801 // 1.13+0.01 Asec
 	}
 }
 
@@ -339,11 +333,9 @@ Star "HD 153697 B"
 	ParentBody "HD 153697"
 	Class      "G0" // ?
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          667.52011205 // 1.13+0.01 Asec
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      76.3801 // 1.13+0.01 Asec
 	}
 }
 
@@ -619,21 +611,20 @@ Star	"HD 23089 B"
 Remove "Alfirk A"{ParentBody "Alfirk"}
 Remove "Alfirk B"{ParentBody "Alfirk"}
 Remove "Alfirk Aa"{ParentBody "Alfirk A"}
-Remove "Alfirk Ab"{ParentBody "Alfirk B"}
-Barycenter "HD 205021 A"
+Remove "Alfirk Ab"{ParentBody "Alfirk A"}
+// B为光学伴星
+/*Barycenter "HD 205021 A"
 {
 	ParentBody "HD 205021"
-	Orbit
+	BinaryOrbit
 	{
-		Period          43343.15125623 // 13.6"
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      2856 // 13.6"
 	}
-}
+}*/
 
 Star "HD 205021 Aa"
 {
-	ParentBody "HD 205021 A"
+	ParentBody "HD 205021"
 	Class      "B1IV"
 	MassSol    7.4
 	RadSol     5.6
@@ -657,8 +648,8 @@ Star "HD 205021 Aa"
 
 Star "HD 205021 Ab"
 {
-	ParentBody "HD 205021 A"
-	Class      "B V"
+	ParentBody "HD 205021"
+	Class      "B6"
 	MassSol    5
 
 	Orbit
@@ -673,18 +664,16 @@ Star "HD 205021 Ab"
 	}
 }
 
-Star "HD 205021 B"
+/*Star "HD 205021 B"
 {
 	ParentBody "HD 205021"
 	Class      "A2"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          43343.15125623
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      2856 // 13.6"
 	}
-}
+}*/
 
 // 少卫增一(SB**)
 Star	"HD 208509 A"
@@ -863,11 +852,9 @@ Star "HD 90839 A"
 	FeH        -0.18
 	Age        2.7
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          58504.81748680 // 122.5"
-		ArgOfPericenter 123
-		MeanAnomaly     0
+		Separation       1565.55 // 122.5"
 	}
 }
 
@@ -877,11 +864,9 @@ Star "HD 90839 B"
 	Class      "K7Ve"
 	MassSol    0.5605
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          58504.81748680
-		ArgOfPericenter 303
-		MeanAnomaly     0
+		Separation       1565.55 // 122.5"
 	}
 }
 
@@ -1295,11 +1280,9 @@ Star	"HD 80290 A"
 	ParentBody     "HD 80290"
 	Class          "F3V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          2158.27974705 // 5.78"
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      167.01 // 5.78"
 	}
 }
 
@@ -1308,11 +1291,9 @@ Star	"HD 80290 B"
 	ParentBody     "HD 80290"
 	Class          "G4 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          2158.27974705 // 5.78"
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      167.01 // 5.78"
 	}
 }
 
@@ -1322,11 +1303,9 @@ Star	"HD 80608 A"
 	ParentBody     "HD 80608"
 	Class          "B9"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          32226.17814861 // 6.29"
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      1009.47 // 6.29"
 	}
 }
 
@@ -1335,11 +1314,9 @@ Star	"HD 80608 B"
 	ParentBody     "HD 80608"
 	Class          "F8"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          32226.17814861 // 6.29"
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      1009.47 // 6.29"
 	}
 }
 
@@ -1347,11 +1324,9 @@ Star	"HD 80608 B"
 Barycenter "内阶增一/19 Lyn A/HD 57103/HIP 35785/HR 2784/SAO 26312"
 {
 	ParentBody "19 Lyn"
-	Orbit
+	BinaryOrbit
 	{
-		Period          93794.93013542
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      93794.93013542
 	}
 }
 
@@ -1400,11 +1375,9 @@ Star "19 Lyn B/GC 9799/HD 57102/HIP 35783/HR 2783/SAO 26311"
 	Luminosity 127.9
 	Teff       10691
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          93794.93013542
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      93794.93013542
 	}
 }
 
@@ -1503,7 +1476,7 @@ Star "HD 78154 B/TYC 4141-1496-2"
 }
 
 // 八谷增一(**)
-Star "HD 30121 A"
+Star "HD 30121 A" // Ab和B是同一颗星?
 {
 	ParentBody "HD 30121"
 	Class      "A3m"
@@ -1516,8 +1489,11 @@ Star "HD 30121 A"
 
 	Orbit
 	{
-		Period          136.31940609
-		ArgOfPericenter 0
+		Period          90
+		Eccentricity    0.87
+		Inclination     120
+		AscendingNode   54.5
+		ArgOfPericenter 55.9
 		MeanAnomaly     0
 	}
 }
@@ -1525,12 +1501,15 @@ Star "HD 30121 A"
 Star "HD 30121 B"
 {
 	ParentBody "HD 30121"
-	Class      "M1.1 V"
+	Class      "F3.1 V"
 
 	Orbit
 	{
-		Period          136.31940609
-		ArgOfPericenter 180
+		Period          90
+		Eccentricity    0.87
+		Inclination     120
+		AscendingNode   54.5
+		ArgOfPericenter 235.9
 		MeanAnomaly     0
 	}
 }
@@ -1540,15 +1519,15 @@ Star "HD 30958 A"
 {
 	ParentBody "HD 30958"
 	Class      "B9.5V"
-	MassSol    3.36
-	Luminosity 289.5
+	MassSol    2.15
+	RadSol     5.1
+	Luminosity 226
 	Teff       9931
+	Age        0.277
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          136.31940609
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      3044.4
 	}
 }
 
@@ -1557,11 +1536,9 @@ Star "HD 30958 B"
 	ParentBody "HD 30958"
 	Class      "M1.1 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          136.31940609
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      3044.4
 	}
 }
 
@@ -1710,11 +1687,9 @@ Star	"HD 37136 B"
 Barycenter "HD 43812 A"
 {
 	ParentBody "HD 43812"
-	Orbit
+	BinaryOrbit
 	{
-		Period          1428.02085309 // 0.98"
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      122.93 // 0.98"
 	}
 }
 
@@ -1757,11 +1732,9 @@ Star	"HD 43812 B"
 	ParentBody     "HD 43812"
 	Class          "K3.2 V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          1428.02085309
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      122.93 // 0.98"
 	}
 }
 
@@ -1951,22 +1924,18 @@ Star "HD 24480 A"
 	Luminosity 1854
 	Teff       3986
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          11042.95198371 // 1.71"
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      495.9 // 1.71"
 	}
 }
 
 Barycenter "HD 24480 B"
 {
 	ParentBody "HD 24480"
-	Orbit
+	BinaryOrbit
 	{
-		Period          1428.02085309 // 0.98"
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      495.9 // 1.71"
 	}
 }
 
@@ -2051,9 +2020,7 @@ Barycenter "HIP 83608 AB"
 	ParentBody "HIP 83608"
 	Orbit
 	{
-		Period          4074.34998885 // 13.2"
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      361.68 // 13.2"
 	}
 }
 
@@ -2136,9 +2103,7 @@ Star "HIP 83608 C"
 
 	Orbit
 	{
-		Period          4074.34998885
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      361.68 // 13.2"
 	}
 }
 
@@ -2150,11 +2115,9 @@ Remove "26 Dra B"{ParentBody "26 Dra (AB)"}
 Barycenter "天棓增十/26 Dra AB/HD 160269/HIP 86036/HR 6573/LHS 3305/LTT 15223/SAO 17546"
 {
 	ParentBody "CCDM J17351+6152"
-	Orbit
+	BinaryOrbit
 	{
-		Period          734131.76542485
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      10470.8
 	}
 }
 
@@ -2202,11 +2165,9 @@ Star "HIP 86037/GJ 685 C/LTT 15224"
 	ParentBody "CCDM J17351+6152"
 	Class      "M1V"
 
-	Orbit
+	BinaryOrbit
 	{
-		Period          734131.76542485
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      10470.8
 	}
 }
 

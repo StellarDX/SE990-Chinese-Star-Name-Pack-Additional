@@ -83,6 +83,7 @@ StarBarycenter "天棓增九/MU Dra/21 Dra/GJ 9584/BD+54 1857/SAO 30239/HIP 8360
 }
 
 Remove "26 Dra"
+Remove "Gliece 685"
 StarBarycenter "BD+61 1678/WDS J17350+6153/CCDM J17351+6152"
 {
 	/*Observation data*/
