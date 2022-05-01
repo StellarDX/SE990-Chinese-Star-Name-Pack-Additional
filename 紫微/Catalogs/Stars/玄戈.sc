@@ -18,7 +18,7 @@ Star "玄戈增一/33 Boo/BD+45 2204/FK5 540/HD 129002/HIP 71618/HR 5468/SAO 451
 }
 
 Remove "38 Boo"
-Star "玄戈增二/Merga/El Mara el Musalsela/Falx Italica/h Boo/38 Boo/BD+46 1993/FK5 1383/GC 19959/HD 130945/HIP 72487/HR 5533/SAO 45226"
+Star "玄戈增二/Merga/El Mara el Musalsela/Falx Italica/h Boo/38 Boo/BD+46 1993/GC 19959/HD 130945/HIP 72487/HR 5533/SAO 45226"
 {
 	/*Observation data*/
 	RA      14 49 19.95
