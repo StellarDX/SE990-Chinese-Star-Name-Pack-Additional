@@ -152,6 +152,7 @@ Star "24 Com A/NSV 5748/GC 17147/HD 109511/HIP 61418/HR 4792/SAO 100160"
 	Orbit
 	{
 		Period          28000
+		SemiMajorAxis   600
 		ArgOfPericenter 0
 		MeanAnomaly     0
 	}
@@ -163,6 +164,7 @@ Barycenter "五诸侯增五/24 Com B/GC 17146/HD 109510/HIP 61415/HR 4791/SAO 10
 	Orbit
 	{
 		Period          28000
+		SemiMajorAxis   800
 		ArgOfPericenter 180
 		MeanAnomaly     0
 	}
@@ -710,6 +712,7 @@ Barycenter	"HD 91636 A"
 	Orbit
 	{
 		Period          2330
+		SemiMajorAxis   63.1148812
 		ArgOfPericenter 0
 		MeanAnomaly     0
 	}
@@ -760,6 +763,7 @@ Star	"HD 91636 B"
 	Orbit
 	{
 		Period          2330
+		SemiMajorAxis   222.9561188
 		ArgOfPericenter 180
 		MeanAnomaly     0
 	}
