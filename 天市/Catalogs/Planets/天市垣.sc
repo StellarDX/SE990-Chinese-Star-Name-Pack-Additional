@@ -795,6 +795,7 @@ Star "HD 140538 A"
 	Orbit
 	{
 		Period          900
+		SemiMajorAxis   35.44541192
 		Eccentricity    0.435
 		Inclination     138.1
 		AscendingNode   54.9
@@ -810,6 +811,7 @@ Barycenter	"HD 140538 B"
 	Orbit
 	{
 		Period          900
+		SemiMajorAxis   70.39458808
 		Eccentricity    0.435
 		Inclination     138.1
 		AscendingNode   54.9
@@ -1329,9 +1331,20 @@ Star "HD 176411 B"
 Barycenter "HD 178125 A"
 {
 	ParentBody "HD 178125"
-	BinaryOrbit
+	/*BinaryOrbit
 	{
 		Separation      49.6009
+	}*/
+	Orbit
+	{
+		RefPlane        "Extrasolar"
+		Period          215.036595
+		SemiMajorAxis   12.16101
+		Eccentricity    0
+		Inclination     0
+		AscendingNode   0
+		ArgOfPericenter 0
+		MeanAnomaly     0
 	}
 }
 
@@ -1368,9 +1381,20 @@ Star "HD 178125 B"
 	ParentBody "HD 178125"
 	Class      "F2.4 V"
 
-	BinaryOrbit
+	/*BinaryOrbit
 	{
 		Separation      49.6009
+	}*/
+	Orbit
+	{
+		RefPlane        "Extrasolar"
+		Period          215.036595
+		SemiMajorAxis   37.43989
+		Eccentricity    0
+		Inclination     0
+		AscendingNode   0
+		ArgOfPericenter 180
+		MeanAnomaly     0
 	}
 }
 
@@ -1425,6 +1449,7 @@ Barycenter	"HD 169985 A"
 	{
 		RefPlane        "Equator"
 		Period          15.6149297
+		SemiMajorAxis   2.82820856
 		Eccentricity    0.480264485
 		Inclination     2.25846373
 		AscendingNode   0
@@ -1476,6 +1501,7 @@ Star	"HD 169985 B"
 	{
 		RefPlane        "Equator"
 		Period          15.6149297
+		SemiMajorAxis   5.15763823
 		Eccentricity    0.480264485
 		Inclination     2.25846373
 		AscendingNode   0
@@ -2036,9 +2062,7 @@ Barycenter "ZET1 CrB/HR 5833/HD 139891"
 	ParentBody "ZET CrB"
 	Orbit
 	{
-		Period          7993
-		ArgOfPericenter 0
-		MeanAnomaly     0
+		Separation      966
 	}
 }
 
@@ -2047,9 +2071,7 @@ Barycenter "ZET2 CrB/HR 5834/HD 139892"
 	ParentBody "ZET CrB"
 	Orbit
 	{
-		Period          7993
-		ArgOfPericenter 180
-		MeanAnomaly     0
+		Separation      966
 	}
 }
 
@@ -2317,6 +2339,7 @@ Star "HD 152107 A"
 	Orbit
 	{
 		Period          56.4
+		SemiMajorAxis   5.31356179
 		Eccentricity    0.13
 		Inclination     37.4
 		AscendingNode   57.5
@@ -2332,6 +2355,7 @@ Barycenter "HD 152107 B"
 	Orbit
 	{
 		Period          56.4
+		SemiMajorAxis   10.03163821
 		Eccentricity    0.13
 		Inclination     37.4
 		AscendingNode   57.5
