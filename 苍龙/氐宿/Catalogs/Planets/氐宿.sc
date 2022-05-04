@@ -89,12 +89,12 @@ Star "HD 130559 C"
 	Class      ""
 	MassSol    0.5
 
-  BinaryOrbit
+  /*BinaryOrbit
 	{
     Epoch           2451545
 		Separation      941.7
 		PositionAngle   294
-	}
+	}*/
 }
 
 // 氐宿增二十(SB**)

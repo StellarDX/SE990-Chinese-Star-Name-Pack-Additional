@@ -1331,20 +1331,9 @@ Star "HD 176411 B"
 Barycenter "HD 178125 A"
 {
 	ParentBody "HD 178125"
-	/*BinaryOrbit
+	BinaryOrbit
 	{
 		Separation      49.6009
-	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          215.036595
-		SemiMajorAxis   12.16101
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -1385,17 +1374,6 @@ Star "HD 178125 B"
 	{
 		Separation      49.6009
 	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          215.036595
-		SemiMajorAxis   37.43989
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 180
-		MeanAnomaly     0
-	}
 }
 
 // 徐增二(SB**)

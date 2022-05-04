@@ -39,10 +39,10 @@ Star "HD 145483 C"
 	ParentBody "HD 145483"
 	Class      "F3V"
 
-  BinaryOrbit
+  /*BinaryOrbit
 	{
 		Separation      357.12
-	}
+	}*/
 }
 
 // 心宿增二(SB**)

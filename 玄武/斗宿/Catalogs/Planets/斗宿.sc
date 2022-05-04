@@ -181,10 +181,10 @@ Star	"HD 173654 B"
 	ParentBody     "HD 173654"
 	Class          "F3Vm"
 
-  BinaryOrbit
+  /*BinaryOrbit
 	{
     Separation      1398.1
-	}
+	}*/
 }
 
 // 天弁增五(SB**)
@@ -267,10 +267,10 @@ Star	"HD 174974 B"
 	ParentBody     "HD 174974"
 	Class          "B4.9 V"
 
-	BinaryOrbit
+	/*BinaryOrbit
 	{
 		Separation      1075
-	}
+	}*/
 }
 
 // 建增七(PM**)
@@ -408,6 +408,7 @@ Star	"HD 179950 A"
 	Orbit
 	{
 		PeriodDays      7319
+		SemiMajorAxis   6.16132000
 		Eccentricity    0.51
 		Epoch           2442418.795
 		ArgOfPericenter 182.6
@@ -422,6 +423,7 @@ Barycenter	"HD 179950 B"
 	Orbit
 	{
 		PeriodDays      7319
+		SemiMajorAxis   2.94063000
 		Eccentricity    0.51
 		Epoch           2442418.795
 		ArgOfPericenter 2.6

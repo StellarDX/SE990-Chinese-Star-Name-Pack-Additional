@@ -1332,20 +1332,9 @@ Star	"HD 80608 B"
 Barycenter "内阶增一/19 Lyn A/HD 57103/HIP 35785/HR 2784/SAO 26312"
 {
 	ParentBody "19 Lyn"
-	/*BinaryOrbit
+	BinaryOrbit
 	{
 		Separation      93794.93013542
-	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          15741553.4
-		SemiMajorAxis   37514.8735
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -1398,17 +1387,6 @@ Star "19 Lyn B/GC 9799/HD 57102/HIP 35783/HR 2783/SAO 26311"
 	{
 		Separation      93794.93013542
 	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          15741553.4
-		SemiMajorAxis   56280.0567
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 180
-		MeanAnomaly     0
-	}
 }
 
 // 内阶增七(PM*Pl)
@@ -1719,20 +1697,9 @@ Star	"HD 37136 B"
 Barycenter "HD 43812 A"
 {
 	ParentBody "HD 43812"
-	/*BinaryOrbit
+	BinaryOrbit
 	{
 		Separation      122.93 // 0.98"
-	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          832.600795
-		SemiMajorAxis   18.7649913
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -1779,17 +1746,6 @@ Star	"HD 43812 B"
 	{
 		Separation      122.93 // 0.98"
 	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          832.600795
-		SemiMajorAxis   104.165009
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 180
-		MeanAnomaly     0
-	}
 }
 
 // 八谷增廿六(EB**)
@@ -1982,36 +1938,14 @@ Star "HD 24480 A"
 	{
 		Separation      495.9 // 1.71"
 	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          3450.35911
-		SemiMajorAxis   146.176484
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 180
-		MeanAnomaly     0
-	}
 }
 
 Barycenter "HD 24480 B"
 {
 	ParentBody "HD 24480"
-	/*BinaryOrbit
+	BinaryOrbit
 	{
 		Separation      495.9 // 1.71"
-	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          3450.35911
-		SemiMajorAxis   349.723516
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -2094,20 +2028,9 @@ Remove "MU Dra Bb"{ParentBody "MU Dra B"}
 Barycenter "HIP 83608 AB"
 {
 	ParentBody "HIP 83608"
-	/*BinaryOrbit
+	BinaryOrbit
 	{
 		Separation      361.68 // 13.2"
-	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          5919.98362
-		SemiMajorAxis   33.4035662
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -2192,17 +2115,6 @@ Star "HIP 83608 C"
 	{
 		Separation      361.68 // 13.2"
 	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          5919.98362
-		SemiMajorAxis   328.276434
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 180
-		MeanAnomaly     0
-	}
 }
 
 // 天棓增十(SB***Pl)
@@ -2213,20 +2125,9 @@ Remove "26 Dra B"{ParentBody "26 Dra (AB)"}
 Barycenter "天棓增十/26 Dra AB/HD 160269/HIP 86036/HR 6573/LHS 3305/LTT 15223/SAO 17546"
 {
 	ParentBody "CCDM J17351+6152"
-	/*BinaryOrbit
+	BinaryOrbit
 	{
 		Separation      10470.8
-	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          939720.672
-		SemiMajorAxis   1829.03796
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -2278,17 +2179,6 @@ Star "HIP 86037/GJ 685 C/LTT 15224"
 	{
 		Separation      10470.8
 	}*/
-	Orbit
-	{
-		RefPlane        "Extrasolar"
-		Period          939720.672
-		SemiMajorAxis   8641.76204
-		Eccentricity    0
-		Inclination     0
-		AscendingNode   0
-		ArgOfPericenter 180
-		MeanAnomaly     0
-	}
 }
 
 //////////ExoPlanets//////////
