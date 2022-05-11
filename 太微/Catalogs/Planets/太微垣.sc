@@ -330,6 +330,7 @@ Star	"HD 97907 B"
 }
 
 // 东次将增三(PM*Pl)
+Remove "Gliese 504 b"{ParentBody "Gliese 504"}
 Planet	"HD 115383 b"
 {
 	ParentBody     "HD 115383"

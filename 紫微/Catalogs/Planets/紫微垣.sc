@@ -97,6 +97,10 @@ Star	"HD 216446 B"
 	}
 }
 
+// 勾陈增五(*)
+Remove "LAM UMi A"{ParentBody "LAM UMi"}
+Remove "LAM UMi B"{ParentBody "LAM UMi"}
+
 // 勾陈增七(V**?)
 Star	"HD 139669 A"
 {
@@ -256,6 +260,7 @@ Star "PSI1 Dra B/BD+72 805/HD 162004/HIP 86620/HR 6637/SAO 8891"
 }
 
 //////////ExoPlanets//////////
+Remove "PSI Dra B b"{ParentBody "PSI Dra B"}
 Planet	"HD 162004 b"
 {
 	ParentBody     "HD 162004"
