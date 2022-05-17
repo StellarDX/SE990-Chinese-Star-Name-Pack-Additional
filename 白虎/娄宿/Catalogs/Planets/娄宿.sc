@@ -67,6 +67,8 @@ Star "HD 11973 B"
 }
 
 // 娄宿增六(SB**)
+Remove "Metallah Aa"{ParentBody "Metallah"}
+Remove "Metallah Ab"{ParentBody "Metallah"}
 Star "HD 11443 A"
 {
 	ParentBody "2 Tri"
