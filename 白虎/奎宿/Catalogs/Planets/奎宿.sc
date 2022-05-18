@@ -90,7 +90,7 @@ Remove "54 Psc A b"{ParentBody "54 Psc A"}
 Planet	"54 Psc Ab/HD 3651 b"
 {
 	ParentBody     "HD 3651 A"
-	DiscMethod     "Astrometry" // Doppler spectroscopy
+	DiscMethod     "RadVel" // Doppler spectroscopy
 	DiscDate       "2003" // Fischer et al./Lick Observatory and Keck Observatory/2003
   Mass           72.46487064
 

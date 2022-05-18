@@ -1696,7 +1696,7 @@ Remove "KAP CrB b"{ParentBody "KAP CrB"}
 Planet	"HD 142091 b"
 {
 	ParentBody     "HD 142091"
-	DiscMethod     "Astrometry" // Doppler spectroscopy
+	DiscMethod     "RadVel" // Doppler spectroscopy
 	DiscDate       "2007" // Johnson et al./Lick Observatory/2007
 	Mass           575.58719618
 
@@ -2189,7 +2189,7 @@ Remove "14 Her c"{ParentBody "14 Her"}
 Planet	"HD 145675 b"
 {
 	ParentBody     "HD 145675"
-	DiscMethod     "Astrometry" // Doppler spectroscopy
+	DiscMethod     "RadVel" // Doppler spectroscopy
 	DiscDate       "1998" // Naef et al., Switzerland, 1998.07.06
 	Mass           2892.238258
 
@@ -2208,7 +2208,7 @@ Planet	"HD 145675 b"
 Planet	"HD 145675 c"
 {
 	ParentBody     "HD 145675"
-	DiscMethod     "Astrometry" // Doppler spectroscopy
+	DiscMethod     "RadVel" // Doppler spectroscopy
 	DiscDate       "2005" // Goździewski et al., USA, 2005.11.17
 	Mass           2193.015822
 

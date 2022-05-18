@@ -763,7 +763,7 @@ Remove "Errai A b"{ParentBody "Errai A"}
 Planet	"Tadmor/HD 222404 b"
 {
 	ParentBody     "HD 222404 A"
-	DiscMethod     "Astrometry" // Doppler spectroscopy
+	DiscMethod     "RadVel" // Doppler spectroscopy
 	DiscDate       "1998" // 	Bruce Campbell/Gordon Walker/Stephenson Yang Hatzes et al. suspected: 1998.07.13/confirmed: 2002.09.24
 	Mass           587.982503
 
@@ -1798,7 +1798,7 @@ Remove "6 Lyn b"{ParentBody "6 Lyn"}
 Planet	"HD 45410 b"
 {
 	ParentBody     "HD 45410"
-	DiscMethod     "Astrometry" // Doppler spectroscopy
+	DiscMethod     "RadVel" // Doppler spectroscopy
 	DiscDate       "2008" // Sato et al./Okayama Astrophysical Observatory/2008
 	Mass           638.8350438 // 2.01MJ
 	Radius         86433.828 // 1.209RJ
