@@ -948,7 +948,7 @@ Remove "HD 19994 b"{ParentBody "HD 19994"}
 Planet	"94 Cet b"
 {
 	ParentBody     "HD 19994 A"
-	DiscMethod     "Astrometry" // Doppler Spectroscopy
+	DiscMethod     "RadVel" // Doppler Spectroscopy
 	DiscDate       "2000" // Mayor et al., 2000.08.07
   Mass           589.5716449
 

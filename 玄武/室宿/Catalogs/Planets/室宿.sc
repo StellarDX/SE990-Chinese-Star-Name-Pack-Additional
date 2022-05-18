@@ -278,7 +278,7 @@ Remove "Spe"{ParentBody "Veritate"}
 Planet	"Spe/14 And b"
 {
 	ParentBody     "GC 32703"
-	DiscMethod     "Astrometry" // Doppler Spectroscopy
+	DiscMethod     "RadVel" // Doppler Spectroscopy
 	DiscDate       "2008" // Sato et al./2008.07.02
 	Mass           1694.0252654
 

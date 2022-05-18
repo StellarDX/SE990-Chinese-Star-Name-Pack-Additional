@@ -396,7 +396,7 @@ Remove "70 Vir b"{ParentBody "70 Vir"}
 Planet	"HD 117176 b"
 {
 	ParentBody     "HD 117176 A"
-	DiscMethod     "Astrometry" // Doppler Spectroscopy
+	DiscMethod     "RadVel" // Doppler Spectroscopy
 	DiscDate       "1996" // Geoffrey Marcy, R. Paul Butler, USA, 1996.01.17
 	Mass           2383.71285
 

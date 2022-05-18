@@ -936,7 +936,7 @@ Remove "24 Boo b"{ParentBody "24 Boo"}
 Planet	"HD 127243 b"
 {
 	ParentBody     "HD 127243"
-	DiscMethod     "Astrometry" // Doppler Spectroscopy
+	DiscMethod     "RadVel" // Doppler Spectroscopy
 	DiscDate       "2018" // Takuya Takarada/Okayama Astrophysical Observatory/2018.04.11
 	Mass           289.2238258
 
