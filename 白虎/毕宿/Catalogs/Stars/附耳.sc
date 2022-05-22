@@ -1,0 +1,27 @@
+Remove "SIG1 Tau"
+StarBarycenter "附耳增一/SIG1 Tau/91 Tau/BD+15 665/HD 29479/HIP 21673/HR 1478/SAO 94051"
+{
+	/*Observation data*/
+	RA      4 39 7.93
+	Dec     15 47 54.7
+	AppMagn 5.05
+	/*Characteristics*/
+	Class   "A4m"
+	/*Astrometry*/
+	Dist    45
+	AbsMagn 1.25
+}
+
+Remove "89 Tau"
+StarBarycenter "附耳增二/附耳增三/89 Tau/HD 29375/CCDM J04382+1602A/CEL 447/GCRV 2709/GSC 01266-01417/HIC 21588/HIP 21588/HR 1472/IDS 04325+1551 A/IRAS 04352+1555/JP11 4903/2MASS J04380942+1601598/N30 973/PMC 90-93 5884/PPM 120091/ROT 3892/SAO 94043/TD1 3389/UBV 4461/UBV M 41309/uvby98 520250103/WDS J04382+1602Aa,Ab/WDS J04382+1602A/YZ 15 1246/AG+15 392/BD+15 661/CSI+15 661 1/TYC 1266-1417-1/WEB 4144/Gaia DR2 3309990523179108480"
+{
+	/*Observation data*/
+	RA      4 38 8.23
+	Dec     16 1 56.2
+	AppMagn 5.75
+	/*Characteristics*/
+	Class   "F0V"
+	/*Astrometry*/
+	Dist    45.5373485
+	AbsMagn 2.31
+}
