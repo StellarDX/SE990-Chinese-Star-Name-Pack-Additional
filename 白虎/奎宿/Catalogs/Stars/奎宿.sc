@@ -34,7 +34,7 @@ StarBarycenter "奎宿增二/55 Psc/ADS 558/AG+21 58/BD+20 87/CCDM J00399+2126/C
 }
 
 Remove "54 Psc"
-StarBarycenter "奎宿增三/54 Psc/NSV 245/BD+20 85/FK5 276/GJ 27/HD 3651/HIP 3093/HR 166/SAO 74175/LHS 1116/LTT 10224"
+StarBarycenter "奎宿增三/54 Psc/NSV 245/BD+20 85/GJ 27/HD 3651/HIP 3093/HR 166/SAO 74175/LHS 1116/LTT 10224"
 {
 	/*Observation data*/
 	RA      0 39 20.01
