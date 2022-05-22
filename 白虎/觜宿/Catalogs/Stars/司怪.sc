@@ -68,8 +68,8 @@ StarBarycenter "司怪增五/68 Ori/H 6 72/CHR 163/HIP 29433/SAO 95359/HD 42509/
 	AbsMagn -1.84
 }
 
-Remove "68 Ori" // 多星星表列出了一颗伴星(PLX 1447), 但不知道有没关系
-Star "司怪增六/141 Tau/CHR 161/HIP 28561/SAO 77858/HD 40724/HR 2116/WDS J06017+2224"
+Remove "71 Ori" // 多星星表列出了一颗伴星(PLX 1447), 但不知道有没关系
+Star "司怪增六/71 Ori/HJ 2302/HIP 29650/SAO 95432/HD 43042/HR 2220/WDS J06148+1909"
 {
 	/*Observation data*/
 	RA      6 14 49.55
