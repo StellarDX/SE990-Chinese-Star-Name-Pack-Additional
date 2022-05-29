@@ -689,7 +689,7 @@ Star "东海增四/c Ser/60 Ser/BD-02 4641/FK5 1480/HD 170474/HIP 90642/HR 6935/
 	Age     0.00126
 }
 
-/*Star "宋增一" // V841 Oph?
+/*Star "宋增一" // V841 Oph Nebula
 {
 	RA  16 56.7
 	Dec -12 49
