@@ -1,0 +1,45 @@
+Remove "76 Gem"
+Star "积薪增一/76 Gem/c Gem/2MASS J07440691+2547029/AG+25 907/BD+26 1633/GC 10392/GCRV 5145/GSC 01916-02155/HD 62285/HIC 37704/HIP 37704/HR 2983/IRAS 07410+2554/IRC +30193/NSV 3703/PLX 1822/PLX 1822.00/PPM 97900/RAFGL 1176/ROT 1247/SAO 79650/TYC 1916-2155-1/UBV 7407/UBV M 13545/YZ 25 4143/WEB 7453/Gaia DR2 868802550325278336"
+{
+	/*Observation data*/
+	RA      7 44 5.91
+	Dec     25 47 6
+	AppMagn 5.28
+	/*Characteristics*/
+	Class   "K4.5III"
+	/*Astrometry*/
+	Dist    194.55
+	AbsMagn -1.15
+	/*Details*/
+	RadSol  34.16
+	Luminosity 762.86
+	Teff    3933
+}
+
+Remove "82 Gem"
+StarBarycenter "积薪增二/82 Gem/ADS 6378/2MASS J07483364+2308274/AG+23 876/BD+23 1812/CCDM J07486+2309/CSI+23 1812 1/GC 10517/GCRV 5191/GSC 01912-02347/HIC 38106/HIP 38106/HR 3021/IDS 07426+2323/IRAS 07455+2316/IRAS F07455+2316/PPM 97980/SAO 79704/TD1 11016/TYC 1912-2347-1/uvby98 100063208/WDS J07486+2308AB/YZ 23 3124/PMSC 07426+2323/WEB 7510/Gaia DR2 675332278144070784"
+{
+	/*Observation data*/
+	RA      7 48 32.67
+	Dec     23 8 30.4
+	AppMagn 6.85
+	/*Characteristics*/
+	Class   "K0III"
+	/*Astrometry*/
+	Dist    322.6
+	AbsMagn -0.69
+}
+
+Remove "84 Gem"
+Star "积薪增三/84 Gem/HIP 38495/SAO 79768/HD 64092"
+{
+	/*Observation data*/
+	RA      7 53 0.09
+	Dec     22 20 7.1
+	AppMagn 7
+	/*Characteristics*/
+	Class   "K0II?"
+	/*Astrometry*/
+	Dist    420
+	AbsMagn -1.12
+}
