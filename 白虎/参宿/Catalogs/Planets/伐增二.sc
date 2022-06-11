@@ -230,8 +230,8 @@ Star "TET1 Ori Db"
 		Epoch           2457790.54023945
 		Eccentricity    0.43
 		AscendingNode   346
-		ArgOfPericenter 166
-		Inclination     340
+		ArgOfPericenter 346
+		Inclination     160
 		MeanAnomaly     0
 	}
 }
