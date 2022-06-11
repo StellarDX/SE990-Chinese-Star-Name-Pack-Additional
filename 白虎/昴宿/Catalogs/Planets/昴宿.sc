@@ -191,6 +191,47 @@ Star	"HD 25680 B(?)"
 	}
 }
 
+// 天阴增二(**)
+Star	"HD 21017 A"
+{
+	ParentBody     "HD 21017"
+	Class          "K4III"
+	MassSol         1.27
+	RadSol          11
+	Luminosity      42
+	Teff            4426
+	FeH             0.11
+	Age             5.2
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		Period          0.0368719111
+		Eccentricity    0
+		Inclination     2.05824885
+		AscendingNode   0
+		ArgOfPericenter -104.165515
+		MeanAnomaly     -120.080425
+	}
+}
+
+Star	"HD 21017 B"
+{
+	ParentBody     "HD 21017"
+	Class          "F9.1 V"
+
+	Orbit
+	{
+		RefPlane        "Equator"
+		Period          0.0368719111
+		Eccentricity    0
+		Inclination     2.05824885
+		AscendingNode   0
+		ArgOfPericenter 75.8344847
+		MeanAnomaly     -120.080425
+	}
+}
+
 // 刍藁增二(Mi**)
 Remove "Mira A"{ParentBody "Mira"}
 Remove "Mira B"{ParentBody "Mira"}
