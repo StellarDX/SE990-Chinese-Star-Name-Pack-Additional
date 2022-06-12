@@ -87,14 +87,14 @@ Star	"HD 216446 A"
 Star	"HD 216446 B"
 {
 	ParentBody     "HD 216446"
-	Class          "T8.3 V"
+	Class          "M8.3 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Epoch           2448622.59580785 // B1992
 		Separation      343
 		PositionAngle   38
-	}
+	} */
 }
 
 // 勾陈增五(*)
@@ -182,23 +182,21 @@ Star	"HD 192907 B"
 	Luminosity     4.05
 	Teff           7119
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Epoch           2457023.16637981 // B2015
 		Separation      722.7
 		PositionAngle   120
-	}
+	} */
 }
 
 // 女史增一(SB***)
 Barycenter "女史增一/PSI1 Dra A/BD+72 804/HD 162003/HIP 86614/HR 6636/SAO 8890"
 {
 	ParentBody     "31 Dra"
-	Orbit
+	BinaryOrbit
 	{
 		Period          10000
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -251,12 +249,12 @@ Star "PSI1 Dra B/BD+72 805/HD 162004/HIP 86620/HR 6637/SAO 8891"
 	Teff           6212
 	Age            0.0033
 
-	Orbit
+	/* Orbit
 	{
 		Period          10000
 		ArgOfPericenter 180
 		MeanAnomaly     0
-	}
+	} */
 }
 
 //////////ExoPlanets//////////
@@ -338,10 +336,10 @@ Star "HD 153697 B"
 	ParentBody "HD 153697"
 	Class      "G0" // ?
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      76.3801 // 1.13+0.01 Asec
-	}
+	} */
 }
 
 // 天床增一(SB**)
@@ -786,12 +784,9 @@ Remove "21 Cas B"{ParentBody "21 Cas (AB)"}
 Barycenter "HD 4161 AB"
 {
 	ParentBody "HD 4161"
-	Orbit
+	BinaryOrbit
 	{
 		Period          86580
-		SemiMajorAxis   541.39408978
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -838,13 +833,12 @@ Star "HD 4161 C/TYC 4307-2168-1 C"
 	Class      ""
 	MassSol    0.8
 
-	Orbit
+	/* Orbit
 	{
 		Period          86580
-		SemiMajorAxis   2458.60591022
 		ArgOfPericenter 180
 		MeanAnomaly     0
-	}
+	} */
 }
 
 // 天璇增一(PM**?)
@@ -871,10 +865,10 @@ Star "HD 90839 B"
 	Class      "K7Ve"
 	MassSol    0.5605
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation       1565.55 // 122.5"
-	}
+	} */
 }
 
 // 辅增一(LP**?)
@@ -952,12 +946,9 @@ Planet	"HD 127243 b"
 Barycenter "HD 131041 A"
 {
 	ParentBody "HD 131041"
-	Orbit
+	BinaryOrbit
 	{
 		Period          1347.653
-		SemiMajorAxis   69.67270195
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -1003,13 +994,12 @@ Star "HD 131041 B"
 	Class      "F7V"
 	MassSol    1.25
 
-	Orbit
+	/* Orbit
 	{
 		Period          1347.653
-		SemiMajorAxis   130.42729805
 		ArgOfPericenter 180
 		MeanAnomaly     0
-	}
+	} */
 }
 
 // 天枪增四(EB***)
@@ -1027,26 +1017,24 @@ Star "HD 133640 A"
 	FeH        -0.24
 	Age        1.4
 
-	Orbit
+	/* BinaryOrbit
 	{
 		Period          209.8
-		SemiMajorAxis   25.88954483
 		Eccentricity    0.5111
 		Inclination     83.55
 		AscendingNode   57.14
 		Epoch           2455942.04947142
 		ArgOfPericenter 219.86
 		MeanAnomaly     0
-	}
+	} */
 }
 
 Barycenter "HD 133640 B"
 {
 	ParentBody "HD 133640"
-	Orbit
+	BinaryOrbit
 	{
 		Period          209.8
-		SemiMajorAxis   21.03525517
 		Eccentricity    0.5111
 		Inclination     83.55
 		AscendingNode   57.14
@@ -1096,10 +1084,9 @@ Remove "55 UMa B"{ParentBody "55 UMa"}
 Barycenter "HD 98353 A"
 {
 	ParentBody "HD 98353"
-	Orbit
+	BinaryOrbit
 	{
 		PeriodDays      1872.7
-		SemiMajorAxis   1.91689780
 		Eccentricity    0.126
 		Inclination     64.8
 		AscendingNode   130
@@ -1153,10 +1140,9 @@ Star "HD 98353 B"
 	MassSol    2.1
 	Teff       9290
 
-	Orbit
+	/* Orbit
 	{
 		PeriodDays      1872.7
-		SemiMajorAxis   3.46867220
 		Eccentricity    0.126
 		Inclination     64.8
 		AscendingNode   130
@@ -1164,7 +1150,7 @@ Star "HD 98353 B"
 		ArgOfPericenter 223.9
 		MeanAnomaly     0
 		//SemiAmplitude   8.4
-	}
+	} */
 }
 
 // 势增二(SB**)
@@ -1304,10 +1290,10 @@ Star	"HD 80290 B"
 	ParentBody     "HD 80290"
 	Class          "G4 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      167.01 // 5.78"
-	}
+	} */
 }
 
 // 文昌增六(**)
@@ -1327,10 +1313,10 @@ Star	"HD 80608 B"
 	ParentBody     "HD 80608"
 	Class          "F8"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      1009.47 // 6.29"
-	}
+	} */
 }
 
 // 内阶增一(SB***)
@@ -1549,10 +1535,10 @@ Star "HD 30958 B"
 	ParentBody "HD 30958"
 	Class      "M1.1 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      3044.4
-	}
+	} */
 }
 
 // 八谷增十一(*?)
@@ -1563,11 +1549,10 @@ Remove "16 Cam B"{ParentBody "16 Cam"}
 Barycenter "HD 34233 A"
 {
 	ParentBody "HD 34233"
-	Orbit
+	BinaryOrbit
 	{
 		RefPlane        "Equator"
 		Period          4219.39494
-		SemiMajorAxis   123.038756
 		Eccentricity    0.541206777
 		Inclination     1.80374968
 		AscendingNode   0
@@ -1610,17 +1595,16 @@ Star	"HD 34233 B"
 	ParentBody     "HD 34233"
 	Class          "B"
 
-	Orbit
+	/* BinaryOrbit
 	{
 		RefPlane        "Equator"
 		Period          4219.39494
-		SemiMajorAxis   376.775479
 		Eccentricity    0.541206777
 		Inclination     1.80374968
 		AscendingNode   0
 		ArgOfPericenter 94.4988667
 		MeanAnomaly     -106.667073
-	}
+	} */
 }
 
 // 八谷增十三(RS**)
