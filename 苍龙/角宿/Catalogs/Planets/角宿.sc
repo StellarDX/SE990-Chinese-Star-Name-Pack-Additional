@@ -15,10 +15,10 @@ Star	"HD 118511 B"
 	ParentBody     "HD 118511"
 	Class          "A4.4 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      780.1
-	}
+	} */
 }
 
 // 角宿增七(**)
@@ -41,10 +41,10 @@ Star	"HD 119853 B"
 	ParentBody     "HD 119853"
 	Class          "M0.5 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      145.887
-	}
+	} */
 }
 
 // 天田增二(**)
@@ -159,10 +159,10 @@ Star	"HD 112992 B"
 	ParentBody     "HD 112992"
 	Class          "M1.8 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      85.5359
-	}
+	} */
 }
 
 // 进贤增四(**)
@@ -182,10 +182,10 @@ Star	"HD 113459 B"
 	ParentBody     "HD 113459"
 	Class          "G4.7 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      83.7499
-	}
+	} */
 }
 
 // 进贤增五(LP**)
@@ -207,10 +207,10 @@ Star	"HD 112142 B"
 	ParentBody     "HD 112142"
 	Class          "A2.7 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      6.67276
-	}
+	} */
 }
 
 // 进贤增八(*Pl2)
@@ -274,10 +274,10 @@ Star	"HIP 64520 B"
 	ParentBody     "HIP 64520"
 	Class          "A2VpSr"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      2131.89
-	}
+	} */
 }
 
 // 天门增四(*Pl3)
