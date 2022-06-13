@@ -186,10 +186,10 @@ Star "HD 119055 B"
 	Luminosity 0.76
 	Teff       5370
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      454.816
-	}
+	} */
 }
 
 // 折威增三(**)
@@ -209,8 +209,8 @@ Star "HD 129926 B"
 	ParentBody "HD 129926"
 	Class      "G1V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      251.048
-	}
+	} */
 }
