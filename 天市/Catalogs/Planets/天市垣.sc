@@ -31,10 +31,10 @@ Star	"HD 159480 Ab"
 	ParentBody     "HD 159480 A"
 	Class          "F9 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      42.089
-	}
+	} */
 }
 
 Star	"HD 159480 B/BD+09 3423/GC 23823/SAO 122525"
@@ -45,12 +45,12 @@ Star	"HD 159480 B/BD+09 3423/GC 23823/SAO 122525"
   Luminosity     7.74
   Teff           7344
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Epoch           2455562.19758469
 		Separation      4705.92
 		PositionAngle   190
-	}
+	} */
 }
 
 // 宦者增一(**)
@@ -70,10 +70,10 @@ Star	"HD 152879 B"
 	ParentBody     "HD 152879"
 	Class          "F1.6 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      275.176
-	}
+	} */
 }
 
 // 斗增九(SB**)
@@ -264,10 +264,10 @@ Star "HD 165777 B"
 	ParentBody "HD 165777"
 	Class      "F3.8 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      665 // 25"
-	}
+	} */
 }
 
 // 宗人增三(gD**?)
@@ -290,10 +290,10 @@ Star "HD 166233 B"
 	ParentBody "HD 166233"
 	Class      "F8.6 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      19.878
-	}
+	} */
 }
 
 // 宗人增四(**?)
@@ -548,10 +548,10 @@ Star "HD 140232 B"
 	Class      "M"
 	MassSol    0.58
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      121.9
-	}
+	} */
 }
 
 // 周增七(**)
@@ -605,10 +605,10 @@ Star "HD 140159 C"
 	ParentBody "HD 140159"
 	Class      "F8.2 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      8294
-	}
+	} */
 }
 
 // 周增十二(PM**?)
@@ -792,26 +792,24 @@ Star "HD 140538 A"
 	FeH        0.036
 	Age        3.2
 
-	Orbit
+	/* Orbit
 	{
 		Period          900
-		SemiMajorAxis   35.44541192
 		Eccentricity    0.435
 		Inclination     138.1
 		AscendingNode   54.9
 		Epoch           2428205.55689599
 		ArgOfPericenter 150.9
 		MeanAnomaly     0
-	}
+	} */
 }
 
 Barycenter	"HD 140538 B"
 {
 	ParentBody     "HD 140538"
-	Orbit
+	BinaryOrbit
 	{
 		Period          900
-		SemiMajorAxis   70.39458808
 		Eccentricity    0.435
 		Inclination     138.1
 		AscendingNode   54.9
@@ -938,10 +936,10 @@ Star "HD 164136 B"
 	ParentBody "HD 164136"
 	Class      "B9.5"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      115.96
-	}
+	} */
 }
 
 // 中山增三(SB**)
@@ -1040,10 +1038,10 @@ Star "中山增七/SAO 85752/HD 166046/HR 6782"
 	ParentBody "HIP 88817"
 	Class      "A3V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      991.9
-	}
+	} */
 }
 
 // 齐增一(SB**)
@@ -1423,11 +1421,10 @@ Star "HD 175515 B"
 Barycenter	"HD 169985 A"
 {
 	ParentBody     "HD 169985"
-	Orbit
+	BinaryOrbit
 	{
 		RefPlane        "Equator"
 		Period          15.6149297
-		SemiMajorAxis   2.82820856
 		Eccentricity    0.480264485
 		Inclination     2.25846373
 		AscendingNode   0
@@ -1475,17 +1472,16 @@ Star	"HD 169985 B"
 	ParentBody     "HD 169985"
 	Class          "K III"
 
-	Orbit
+	/* Orbit
 	{
 		RefPlane        "Equator"
 		Period          15.6149297
-		SemiMajorAxis   5.15763823
 		Eccentricity    0.480264485
 		Inclination     2.25846373
 		AscendingNode   0
 		ArgOfPericenter 355.356052
 		MeanAnomaly     48.1740138
-	}
+	} */
 }
 
 // 天纪增二(**)
@@ -1610,10 +1606,10 @@ Star	"HD 151237 B"
 	ParentBody     "HD 151237"
 	Class          "F9.4 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      38573.89490055
-	}
+	} */
 }
 
 // 贯索增二(*Pl)
@@ -1763,10 +1759,10 @@ Barycenter "贯索增七/SIG CrB AB/HIP 79607 AB"
 Barycenter "SIG CrB C/GJ 9549/HIP 79551 C/WDS J16147+3352E/G 180-42"
 {
 	ParentBody "SIG CrB"
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      14000
-	}
+	} */
 }
 
 // ---------------------------------------- //
@@ -1902,11 +1898,9 @@ Remove "17 Dra B"{ParentBody "17 Dra (AB)"}
 Barycenter "七公增一/17 Dra/Struve 2078/HIP 81292/SAO 30013/HD 150118/HR 6186"
 {
 	ParentBody "CCDM J16362+5255"
-	Orbit
+	BinaryOrbit
 	{
 		Period          38000
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -1949,12 +1943,12 @@ Star "17 Dra B"
 Barycenter "七公增二/16 Dra/HIP 81290/SAO 30012/HD 150100/HR 6184"
 {
 	ParentBody "CCDM J16362+5255"
-	Orbit
+	/* Orbit
 	{
 		Period          38000
 		ArgOfPericenter 180
 		MeanAnomaly     0
-	}
+	} */
 }
 
 Star "16 Dra A"
@@ -2038,7 +2032,7 @@ Star	"HD 133208 B(?)"
 Barycenter "ZET1 CrB/HR 5833/HD 139891"
 {
 	ParentBody "ZET CrB"
-	Orbit
+	BinaryOrbit
 	{
 		Separation      966
 	}
@@ -2047,10 +2041,10 @@ Barycenter "ZET1 CrB/HR 5833/HD 139891"
 Barycenter "ZET2 CrB/HR 5834/HD 139892"
 {
 	ParentBody "ZET CrB"
-	Orbit
+	/* Orbit
 	{
 		Separation      966
-	}
+	} */
 }
 
 // ---------------------------------------- //
@@ -2314,26 +2308,24 @@ Star "HD 152107 A"
 	Teff       8840
 	Age        0.525
 
-	Orbit
+	/* Orbit
 	{
 		Period          56.4
-		SemiMajorAxis   5.31356179
 		Eccentricity    0.13
 		Inclination     37.4
 		AscendingNode   57.5
 		Epoch           2448330.40204883
 		ArgOfPericenter 249.4
 		MeanAnomaly     0
-	}
+	} */
 }
 
 Barycenter "HD 152107 B"
 {
 	ParentBody "HD 152107"
-	Orbit
+	BinaryOrbit
 	{
 		Period          56.4
-		SemiMajorAxis   10.03163821
 		Eccentricity    0.13
 		Inclination     37.4
 		AscendingNode   57.5
