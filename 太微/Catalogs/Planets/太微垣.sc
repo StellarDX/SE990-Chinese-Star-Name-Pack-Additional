@@ -15,10 +15,10 @@ Star "HD 100600 B"
 	ParentBody "HD 100600"
 	Class      "B3.7V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      2122.8
-	}
+	} */
 }
 
 // 五帝座增三(**)
@@ -149,24 +149,18 @@ Star "24 Com A/NSV 5748/GC 17147/HD 109511/HIP 61418/HR 4792/SAO 100160"
 	Teff       4688
 	FeH        -0.09
 
-	Orbit
+	/* BinaryOrbit
 	{
 		Period          28000
-		SemiMajorAxis   600
-		ArgOfPericenter 0
-		MeanAnomaly     0
-	}
+	} */
 }
 
 Barycenter "五诸侯增五(S)/24 Com B/GC 17146/HD 109510/HIP 61415/HR 4791/SAO 100159"
 {
 	ParentBody "24 Com"
-	Orbit
+	BinaryOrbit
 	{
 		Period          28000
-		SemiMajorAxis   800
-		ArgOfPericenter 180
-		MeanAnomaly     0
 	}
 }
 
@@ -385,10 +379,10 @@ Star	"HD 117176 B"
 	Class          "M5V"
 	MassSol        0.08
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      51.2226
-	}
+	} */
 }
 
 //////////ExoPlanets//////////
@@ -661,10 +655,10 @@ Star	"HD 92769 B"
 	ParentBody     "HD 92769"
 	Class          "G5.4 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      856.207
-	}
+	} */
 }
 
 // 少微增七(SB**)
@@ -710,12 +704,9 @@ Remove "49 Leo Ab"{ParentBody "49 Leo A"}
 Barycenter	"HD 91636 A"
 {
 	ParentBody     "HD 91636"
-	Orbit
+	BinaryOrbit
 	{
 		Period          2330
-		SemiMajorAxis   63.1148812
-		ArgOfPericenter 0
-		MeanAnomaly     0
 	}
 }
 
@@ -761,13 +752,12 @@ Star	"HD 91636 B"
 	Class          ""
 	MassSol        1.69
 
-	Orbit
+	/* Orbit
 	{
 		Period          2330
-		SemiMajorAxis   222.9561188
 		ArgOfPericenter 180
 		MeanAnomaly     0
-	}
+	} */
 }
 
 // 长垣增六(**+?)
@@ -895,10 +885,10 @@ Star	"HD 92841 B"
 	ParentBody     "HD 92841"
 	Class          "K1II"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      1150.84
-	}
+	} */
 }
 
 // 灵台增五(V**)
@@ -957,10 +947,10 @@ Star	"HD 96436 B"
 	ParentBody     "HD 96436"
 	Class          "M2.7 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      168.21
-	}
+	} */
 }
 
 // 谒者增二(PM**)
@@ -989,8 +979,8 @@ Star	"HD 107705 B"
 	Class          "K5V"
 	MassSol        0.75
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      623.832
-	}
+	} */
 }
