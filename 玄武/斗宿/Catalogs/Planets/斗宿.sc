@@ -59,12 +59,12 @@ Star	"HD 169420 B"
 	ParentBody     "HD 169420"
 	Class          "A5"
 
-  BinaryOrbit
+  /* BinaryOrbit
 	{
     Epoch           2454466.47098835
     Separation      221
     PositionAngle   280
-	}
+	} */
 }
 
 // 天龠增二(PM**)
@@ -333,10 +333,10 @@ Star	"HD 181645 B"
 	ParentBody     "HD 181645"
 	Class          "A5"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      2.1493
-	}
+	} */
 }
 
 // 建增九(**)
@@ -356,10 +356,10 @@ Star	"HD 180562 B"
 	ParentBody     "HD 180562"
 	Class          "A2V" // A3V
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      1295.9
-	}
+	} */
 }
 
 // 狗增二(**)
@@ -405,25 +405,23 @@ Star	"HD 179950 A"
 	MassSol        2.1
 	Luminosity     84
 
-	Orbit
+	/* Orbit
 	{
 		PeriodDays      7319
-		SemiMajorAxis   6.16132000
 		Eccentricity    0.51
 		Epoch           2442418.795
 		ArgOfPericenter 182.6
 		MeanAnomaly     0
 		//SemiAmplitude   10
-	}
+	} */
 }
 
 Barycenter	"HD 179950 B"
 {
 	ParentBody     "HD 179950"
-	Orbit
+	BinaryOrbit
 	{
 		PeriodDays      7319
-		SemiMajorAxis   2.94063000
 		Eccentricity    0.51
 		Epoch           2442418.795
 		ArgOfPericenter 2.6
@@ -489,10 +487,10 @@ Star	"HR 7703 B/LHS 487/LFT 1530/LTT 7989"
 	MassSol        0.24
 	RadSol         0.28
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      56.3
-	}
+	} */
 }
 
 // 天渊增一(PM**)
