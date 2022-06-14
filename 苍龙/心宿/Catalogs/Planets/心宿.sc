@@ -28,10 +28,10 @@ Star "HD 145483 B"
 	ParentBody "HD 145483 AB"
 	Class      "K7.9XR"
 
-  BinaryOrbit
+  /* BinaryOrbit
 	{
 		Separation      18.5996
-	}
+	} */
 }
 
 Star "HD 145483 C"
