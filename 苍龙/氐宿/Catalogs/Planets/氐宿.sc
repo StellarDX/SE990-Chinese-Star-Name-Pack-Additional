@@ -75,12 +75,12 @@ Star "HD 130559 B"
 	Class      "A6m"
 	RadSol     2.59
 
-  BinaryOrbit
+  /* BinaryOrbit
 	{
     Epoch           2453735.98659079
 		Separation      139
 		PositionAngle   5.5
-	}
+	} */
 }
 
 Star "HD 130559 C"
@@ -233,12 +233,12 @@ Star "HD 136514 B"
 	ParentBody "HD 136514"
 	Class      "K6.8 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Epoch           2453370.74439200
 		Separation      243.017
 		PositionAngle   21.8
-	}
+	} */
 }
 
 // 氐宿增廿八(**)
@@ -258,10 +258,10 @@ Star "HD 132933 B"
 	ParentBody "HD 132933"
 	Class      "A4.6 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      163.02
-	}
+	} */
 }
 
 // 氐宿增廿九(PM**)
@@ -283,12 +283,12 @@ Star "HD 132052 B"
 	ParentBody "HD 132052"
 	Class      "M6"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Epoch           2451179.29119932
 		Separation      613.12
 		PositionAngle   297
-	}
+	} */
 }
 
 // 帝席增一(SB**)
@@ -427,8 +427,8 @@ Star "HD 132219 B"
 	ParentBody "HD 132219"
 	Class      "F1.5 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      60.088
-	}
+	} */
 }
