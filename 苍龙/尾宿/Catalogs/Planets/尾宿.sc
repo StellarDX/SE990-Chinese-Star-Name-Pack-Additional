@@ -50,10 +50,10 @@ Star	"HD 156252 B"
 	ParentBody     "HD 156252"
 	Class          "M2.8 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Separation      917.339
-	}
+	} */
 }
 
 // 天江增七(PM**)
@@ -81,12 +81,12 @@ Star	"HD 156897 B"
 	ParentBody     "HD 156897"
 	Class          "G6.8 V"
 
-	BinaryOrbit
+	/* BinaryOrbit
 	{
 		Epoch           2457023.16637981
 		Separation      607.6
 		PositionAngle   27
-	}
+	} */
 }
 
 // 天江增九(**)
