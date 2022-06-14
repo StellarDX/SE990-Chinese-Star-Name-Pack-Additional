@@ -56,12 +56,12 @@ Star "HD 142114 B"
 	ParentBody "HD 142114"
 	Class      "F8.7 V"
 
-  BinaryOrbit
+  /* BinaryOrbit
 	{
     Epoch           2456657.92418103
     Separation      309.15
     PositionAngle   268.28
-	}
+	} */
 }
 
 // 罚增三(*Pl)
