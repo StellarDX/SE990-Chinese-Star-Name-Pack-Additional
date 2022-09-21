@@ -496,39 +496,88 @@ Star	"HD 109551 B"
 	}
 }
 
-// 少尉增二(SB**)
-Star	"HD 108907 A"
+// 少尉增二(SB****)
+// NOIRLab: http://www.ctio.noirlab.edu/~atokovin/stars/stars.php?cat=HD&number=108907
+Barycenter "HD 108907 A"
 {
-	ParentBody     "HD 108907"
-	Class          "M3 III"
-
-	Orbit
+	ParentBody "HD 108907"
+	BinaryOrbit // Gaia
 	{
-		RefPlane        "Equator"
-		Period          0.414776144
-		Eccentricity    0
-		Inclination     0.9661901
-		AscendingNode   0
-		ArgOfPericenter 120.982335
-		MeanAnomaly     175.608823
+		Period          27665
+		Separation      1830.25 // 9.266"
 	}
 }
 
+// Aa1: cataclismic binary. Reimers D. et al. 1988 A&A 193 180. HIP: G-solution.
+Star	"HD 108907 Aa"
+{
+	ParentBody     "HD 108907 A"
+	Class          "M3III"
+	MassSol        6.30
+
+	Orbit // SB9_1744 2009A&A...498..627F
+	{
+		PeriodDays      1714
+		Epoch           2453239
+		Eccentricity    0.2 // 0.33?
+		Inclination     0
+		AscendingNode   0
+		ArgOfPericenter 98
+		MeanAnomaly     0
+	}
+}
+
+Barycenter	"HD 108907 Ab"
+{
+	ParentBody     "HD 108907 A"
+	Orbit // SB9_1744 2009A&A...498..627F
+	{
+		PeriodDays      1714
+		Epoch           2453239
+		Eccentricity    0.2 // 0.33?
+		Inclination     0
+		AscendingNode   0
+		ArgOfPericenter 278 // 267?
+		MeanAnomaly     0
+	}
+}
+
+Star	"HD 108907 Ab1"
+{
+	ParentBody     "HD 108907 Ab"
+	Class          "WD"
+	MassSol        0.80
+
+	BinaryOrbit // CQ Dra 1988A&A 193 1
+	{
+		PeriodDays      0.165
+	}
+}
+
+Star	"HD 108907 Ab2"
+{
+	ParentBody     "HD 108907 Ab"
+	Class          "M4V"
+	MassSol        0.26
+
+	/* BinaryOrbit // CQ Dra 1988A&A 193 1
+	{
+		PeriodDays      0.165
+	} */
+}
+
+// DR2-HIP: dmu=(-2.1, +4.1) mas/yr.
 Star	"HD 108907 B"
 {
 	ParentBody     "HD 108907"
-	Class          "A3.3 V"
+	Class          ""
+	MassSol        0.65
 
-	Orbit
+	/* BinaryOrbit // Gaia
 	{
-		RefPlane        "Equator"
-		Period          0.414776144
-		Eccentricity    0
-		Inclination     0.9661901
-		AscendingNode   0
-		ArgOfPericenter 300.982335
-		MeanAnomaly     175.608823
-	}
+		Period          27665
+		Separation      1830.25 // 9.266"
+	} */
 }
 
 // 上卫增二(PM**?)
