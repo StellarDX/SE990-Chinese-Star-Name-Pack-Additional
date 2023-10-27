@@ -88,7 +88,7 @@ Star "亢宿增六/104 Vir/HIP 70680/SAO 139942/HD 126722/HR 5406"
 }
 
 Remove "MU Vir" // 距离主恒星770AU的地方好像有一颗伴星
-Star "亢宿增七/Rijl al Awwa/μ Vir/107 Vir/BD-05 3936/FK5 545/GJ 9491/HD 129502/HIP 71957/HR 5487/SAO 140090"
+Star "亢宿增七/Rijl al Awwa/MU Vir/107 Vir/BD-05 3936/FK5 545/GJ 9491/HD 129502/HIP 71957/HR 5487/SAO 140090"
 {
 	/*Observation data*/
 	RA      14 43 5.01
