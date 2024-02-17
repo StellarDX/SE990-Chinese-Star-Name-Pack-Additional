@@ -1,20 +1,22 @@
 Remove "PSI1 Aur"
-Star "座旗增一/46 Aur/BD+49 1488/FK5 242/HD 44537/HIP 30520/HR 2289/SAO 41076"
+Star "座旗增一/PSI1 Aur/46 Aur/BD+49 1488/FK5 242/HD 44537/HIP 30520/HR 2289/SAO 41076"
 {
+	DateUpdated "2019-05-25"
 	/*Observation data*/
 	RA      6 24 52.22
 	Dec     49 17 22.1
-	AppMagn 4.91
+	AppMagn 4.75
 	/*Characteristics*/
-	Class   "K5Iab" // M1Ib
+	Class   "K5Iab" // K5-M1Iab-Ib
 	/*Astrometry*/
-	Dist    1700
-	//AbsMagn -5.53
+	Dist    2300
+	AbsMagn -5.53
 	/*Details*/
 	MassSol 14.4
-	RadSol  597
+	RadSol  726
 	Luminosity 63579
 	Teff    3750
+	FeH     0.08
 	Age     0.0123
 }
 
