@@ -1,0 +1,13 @@
+// Object HD 81817  ---  Spectroscopic Binary  ---  OID=@366789   (@@4916,10)  ---  coobox=3099 
+// Object types: Spectroscopic Binary,Near-IR Source (λ < 3 µm),White Dwarf,Star,Infra-Red Source,UV-emission Source,X-ray Source 
+Remove "HD 81817"
+StarBarycenter "四辅增一/HIP 47193/Gaia DR3 1144716265942885888/TIC 137603530/2MASS J09370531+8119349/PLX 2251/AG+81 278/BD+81 302/DO 32868/FK5 910/GC 13174/GCRV 6182/GEN# +1.00081817/GSC 04547-02323/HD 81817/HIC 47193/HR 3751/IRAS 09301+8132/JP11 1815/N30 2272/PMC 90-93 643/PPM 1634/RAFGL 1363/ROT 1473/SAO 1551/SKY# 18598/TD1 13941/TYC 4547-2323-1/UBV 9027/UBV M 15418/WD 0930+815/[HFE83] 663/PLX 2251.00/2RXP J093708.8+811940/WD 0937+813/WEB 8877/Gaia DR2 1144716265940854016"
+{
+	DateUpdated     "2024-04-27"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              9 37 5.287779
+	Dec             81 19 34.971143
+	Parallax        3.28
+	AppMagn         4.255
+	Class           "K3II-III"
+}
