@@ -3,15 +3,15 @@
 Star "HD 81817 A"
 {
 	DateUpdated     "2024-04-27"
-	ParentBody      "HIP 47193"
+	ParentBody      "HD 81817"
 	Class           "K3II-III"
-    AbsMagn         -3.14
+	AbsMagn         -3.14
 	MassSol         4.3
 	RadSol          83.8
 	LumBol          1822.9
 	Teff            4140
 	FeH             -0.17
-    RotationPeriod  19224
+	RotationPeriod  19224
 	Age             0.150
 }
 
@@ -24,7 +24,7 @@ Planet "HD 81817 b"
 	ParentBody     "HD 81817 A"
 	DiscMethod     "RadVel"
 	DiscDate       "2020"
-    MassKg         4.579796e+28
+	MassKg         4.579796e+28
 
 	Orbit // 官方数据
 	{
@@ -44,7 +44,7 @@ Planet "HD 81817 c"
 	ParentBody     "HD 81817 A"
 	DiscMethod     "RadVel"
 	DiscDate       "2022"
-    MassKg         4.2914708125e+28
+	MassKg         4.2914708125e+28
 
 	Orbit // 官方数据
 	{
