@@ -91,7 +91,7 @@ Star "HD 42818 A"
 Star "HD 42818 B"
 {
 	ParentBody      "HD 42818"
-	Class           "F5?" // 温度比主星低
+	Class           "F9.9?" // 温度比主星低
 }
 
 // Object HD 23089  ---  Double or Multiple Star  ---  OID=@256462   (@@2374,0)  ---  coobox=2832 

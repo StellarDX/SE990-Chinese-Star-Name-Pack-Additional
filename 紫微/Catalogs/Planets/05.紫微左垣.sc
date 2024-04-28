@@ -107,7 +107,7 @@ Star "79 Dra A"
 Star "79 Dra B"
 {
 	ParentBody      "79 Dra"
-	Class           "A2?"
+	Class           "G4.1?"
 }
 
 // Object * 31 Cep  ---  Spectroscopic Binary  ---  OID=@252042   (@@6313,3)  ---  coobox=923 
