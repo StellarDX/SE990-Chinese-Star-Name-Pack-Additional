@@ -1,0 +1,64 @@
+// Object * kap Cep  ---  Star  ---  OID=@289378   (@@6660,0)  ---  coobox=965 
+// Object types: Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,Infra-Red Source,UV-emission Source,X-ray Source 
+Remove "KAP Cep"
+StarBarycenter "天柱增二/KAP Cep/HIP 99255/Gaia DR3 2290599311287582464/TIC 237300602/PLX 4824/1 Cep/AG+77 570/BD+77 764/FK5 759/GC 28066/GCRV 12575/GSC 04589-03106/HD 192907/HIC 99255/HR 7750/JP11 3208/N30 4464/PMC 90-93 537/PPM 10431/ROT 2948/SAO 9665/SKY# 37898/TD1 26408/UBV 17553/UBV M 24685/[HFE83] 1351/ALS 16392/PLX 4824.00/1RXS J200851.5+774234/IRAS 20105+7733/AKARI-IRC-V1 J2008535+774241/uvby98 100192907/ADS 13524 A/CCDM J20088+7743A/CSI+77 764 1/IDS 20123+7725 A/TYC 4589-3106-1/WDS J20089+7743A/** STF 2675A/2MASS J20085339+7742410/GEN# +1.00192907/WEB 17688/Gaia DR2 2290599311287582464"
+{
+	DateUpdated     "2024-04-29"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              20 8 53.3487448872
+	Dec             77 42 41.115549672
+	Parallax        10.1788
+	AppMagn         4.4
+	Class           "B9III"
+}
+
+// Object * 74 Dra  ---  High Proper Motion Star  ---  OID=@301791   (@@6334,3)  ---  coobox=984 
+// Object types: High Proper Motion Star,High Proper Motion Star,Mid-IR Source (3 to 30 µm),Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,Infra-Red Source 
+Remove "74 Dra"
+Star "天柱增三/74 Dra/Gaia DR3 2298101352139398144/TIC 264053070/2MASS J20292752+8105284/PLX 4928/ASCC 55843/LSPM J2029+8105/TYC 4597-1694-1/USNO-B1.0 1710-00059493/AG+80 431/BD+80 660/CCDM J20297+8106A/CSI+80 660 1/GC 28648/GCRV 12874/GEN# +1.00196925A/HD 196925/HIC 101082/HIP 101082/HR 7908/IDS 20353+8044 A/IRAS 20324+8055/LTT 16007/NLTT 49503/PPM 3600/SAO 3413/SKY# 38765/UBV 17931/UBV 17932/WDS J20295+8105A/PLX 4928.00/** BUP 212A/** STT 593A/WISEA J202927.91+810530.9/Gaia DR1 2298101347842525056/WEB 18255/Gaia DR2 2298101352139398144"
+{
+	DateUpdated     "2024-04-29"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              20 29 27.5631080784
+	Dec             81 5 28.594098132
+	Parallax        15.6244
+	AppMagn         5.95 // Stellarium
+	Class           "K0II"
+	// Measures     
+	AbsMagn         1.92 // 计算的值
+	MassSol         1.6255417514469 // log(g) = 3.14 cm/s^2
+	RadSol          5.6825 // Gaia DR3
+	LumBol          18.7117950845492 // 计算的值
+	Teff            5036
+	FeH             -0.1
+}
+
+// Object * 75 Dra  ---  Star  ---  OID=@301887   (@@6348,7)  ---  coobox=986 
+// Object types: Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,Infra-Red Source 
+Remove "75 Dra"
+StarBarycenter "天柱增四/75 Dra/Gaia DR3 2298389355466272256/TIC 398238180/PLX 4917/AG+81 642/BD+80 659/CCDM J20282+8126A/CSI+80 659 1/FK5 3963/GC 28611/GCRV 12858/GEN# +1.00196787A/GSC 04597-01693/HD 196787/HIC 100965/HIP 100965/HR 7901/IDS 20345+8105 A/N30 4542/PMC 90-93 1498/PPM 3597/SAO 3408/SKY# 38705/TYC 4597-1693-1/UBV 17912/PLX 4917.00/WDS J20282+8125A/IRAS 20314+8115/** BUP 211A/** STH 7A/AKARI-IRC-V1 J2028150+812522/2MASS J20281465+8125216/Gaia DR1 2298389351170474240/WEB 18237/Gaia DR2 2298389355466272256"
+{
+	DateUpdated     "2024-04-29"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              20 28 14.58381318
+	Dec             81 25 21.749766636
+	Parallax        7.5038
+	AppMagn         5.368
+	Class           "G9III"
+}
+
+// Object * 35 Dra  ---  High Proper Motion Star  ---  OID=@328947   (@@7016,2)  ---  coobox=1576 
+// Object types: High Proper Motion Star,High Proper Motion Star,Mid-IR Source (3 to 30 µm),Near-IR Source (λ < 3 µm),Star,Infra-Red Source,UV-emission Source 
+Remove "35 Dra"
+Star "天柱增六/35 Dra/HIP 87234/Gaia DR3 1656990278195317120/TIC 441813918/PLX 4105/LSPM J1749+7657/TYC 4573-1916-1/ASCC 47830/USNO-B1.0 1669-00090907/AG+76 656/BD+76 667/FK5 675/GC 24343/GCRV 10352/GEN# +1.00163989/HD 163989/HIC 87234/HR 6701/IRAS 17516+7658/LTT 15293/N30 3979/NLTT 45633/PMC 90-93 481/PPM 9652/ROT 2514/SAO 8939/SKY# 32238/TD1 21337/UBV 15279/UBV M 22513/uvby98 100163989/2MASS J17492701+7657464/PLX 4105.00/WISEA J174927.23+765748.7/WEB 14719/Gaia DR2 1656990278194865664"
+{
+	DateUpdated     "2024-04-29"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              17 49 27.0323669376
+	Dec             76 57 46.36533996
+	Parallax        31.5877
+	AppMagn         5 // Stellarium
+	Class           "F6IV-Vs"
+	// Measures     
+	AbsMagn         2.5 // 计算的值
+}
