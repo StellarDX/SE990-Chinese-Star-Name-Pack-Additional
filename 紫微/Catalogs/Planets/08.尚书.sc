@@ -62,6 +62,6 @@ Star "20 Dra B"
 	ParentBody      "20 Dra"
 	Parallax        14.9677
 	AppMagn         7.25 /// Stellarium
-	Class           "F2?"
+	Class           "K8.7?"
 	AbsMagn         3.12 // 计算的值
 }

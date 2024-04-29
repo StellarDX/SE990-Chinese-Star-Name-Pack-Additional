@@ -26,7 +26,7 @@ Star "HD 216446 B"
 {
 	DateUpdated     "2024-04-29"
 	ParentBody      "HD 216446"
-	Class           "K3?"
+	Class           "G0.1?"
 }
 
 // Object * lam UMi  ---  Long-Period Variable  ---  OID=@330650   (@@5248,5)  ---  coobox=1706 
