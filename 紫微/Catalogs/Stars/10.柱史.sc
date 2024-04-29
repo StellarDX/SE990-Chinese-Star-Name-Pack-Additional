@@ -13,7 +13,7 @@ Star "柱史增一/38 Dra/HIP 89594/AP J18165873+6844292/Gaia DR3 22597674289926
 	// Measures     
 	AbsMagn         0.51 // 计算的值
 	MassSol         2.2433446825346 // log(g) = 4.034 cm/s^2
-	RadSol          2.385
+	RadSol          2.385 // Gaia DR3
 	LumBol          90.44507141279475 // 计算的值
 	Teff            11526
 	FeH             -0.998
@@ -34,7 +34,7 @@ Star "柱史增二/37 Dra/HIP 89448/Gaia DR3 2259778527188126464/TIC 236767893/P
 	// Measures     
 	AbsMagn         1.33 // 计算的值
 	MassSol         1.77597745093281 // log(g) = 2.816 cm/s^2
-	RadSol          8.625
+	RadSol          8.625 // Gaia DR3
 	LumBol          38.38465833053138 // 计算的值
 	Teff            4892
 	FeH             -0.080
