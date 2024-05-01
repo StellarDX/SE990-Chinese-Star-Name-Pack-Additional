@@ -538,7 +538,7 @@ Star "八谷增卅二/11 Lyn/HIP 31665/Gaia DR3 995220239759552000/TIC 444903023
 	AppMagn         5.89
 	Class           "A2V"
 	// Measures     
-	AbsMagn         0.90
+	AbsMagn         0.54 // 计算的值
 }
 
 // Object * 9 Lyn  ---  High Proper Motion Star  ---  OID=@370467   (@@1209,14)  ---  coobox=3642 
@@ -554,7 +554,7 @@ Star "八谷增卅三/9 Lyn/HIP 31526/Gaia DR3 995180726060673792/TIC 444895682/
 	AppMagn         6.555
 	Class           "F4Vn"
 	// Measures     
-	AbsMagn         1.58
+	AbsMagn         1.61 // 计算的值
 	MassSol         1.91752711787635 // log(g) = 3.736 cm/s^2
 	RadSol          3.1075 // Gaia DR3
 	LumBol          18.4815838751345 // 计算的值
