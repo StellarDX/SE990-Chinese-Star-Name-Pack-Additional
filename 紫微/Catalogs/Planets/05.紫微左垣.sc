@@ -206,7 +206,7 @@ Planet	"GAM Cep b/HD 222404 b/Tadmor/Errai b"
 	ParentBody     "GAM Cep A"
 	DiscMethod     "RadVel"
 	DiscDate       "2003"
-	MassKg         1.7842375e+28
+	MassJup        9.4
 
 	Surface {Preset "jupiter_cold_saturn.cfg"}
 	Atmosphere

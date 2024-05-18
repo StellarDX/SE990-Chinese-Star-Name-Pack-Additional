@@ -7,7 +7,7 @@ Planet	"e Vir b/GJ 504 b"
 	DiscMethod     "Imaging"
 	DiscDate       "2013"
 	Class          "GasGiant"
-	MassKg         7.5925e+27
+	MassJup        4.0 // 20 - 30
 	Radius         68632.320
 
 	Surface {Preset "GJ 504 b.cfg"}
@@ -78,7 +78,7 @@ Planet	"70 Vir b/HD 117176 b"
 	ParentBody     "70 Vir A"
 	DiscMethod     "RadVel"
 	DiscDate       "1996"
-	MassKg         1.4046125e+28
+	MassJup        7.40
 
 	Surface {Preset "neptune_warm_default.cfg"}
 

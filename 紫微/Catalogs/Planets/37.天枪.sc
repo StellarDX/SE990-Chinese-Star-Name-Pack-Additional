@@ -1,7 +1,7 @@
 Planet	"13 Boo b"
 {
 	ParentBody     "13 Boo"
-	MassKg         5.694375e+28
+	MassJup        30
 
 	Orbit
 	{
@@ -18,7 +18,7 @@ Planet	"24 Boo b"
 	ParentBody     "24 Boo"
 	DiscMethod     "RadVel"
 	DiscDate       "2018"
-	MassKg         1.72729375e+27
+	MassJup        0.91
 
 	Orbit
 	{

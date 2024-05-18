@@ -201,7 +201,7 @@ Planet "11 Com Ab/HD 107383b"
 	ParentBody     "11 Com A"
 	DiscMethod     "RadVel"
 	DiscDate       "2008"
-	MassKg         3.6823625e+28
+	MassJup        19.4
 
 	Orbit
 	{

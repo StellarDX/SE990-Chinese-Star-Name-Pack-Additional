@@ -5,7 +5,7 @@ Planet	"HD 81688 b/41 Lyn b/Arkas"
 	ParentBody     "Intercrus"
 	DiscMethod     "RadVel"
 	DiscDate       "2008"
-	MassKg         5.1249375e+27
+	MassJup        2.7
 
 	Orbit
 	{

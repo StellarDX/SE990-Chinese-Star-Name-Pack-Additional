@@ -24,7 +24,7 @@ Planet "HD 81817 b"
 	ParentBody     "HD 81817 A"
 	DiscMethod     "RadVel"
 	DiscDate       "2020"
-	MassKg         4.579796e+28
+	MassJup        24.128
 
 	Orbit // 官方数据
 	{
@@ -44,7 +44,7 @@ Planet "HD 81817 c"
 	ParentBody     "HD 81817 A"
 	DiscMethod     "RadVel"
 	DiscDate       "2022"
-	MassKg         4.2914708125e+28
+	MassJup        22.609
 
 	Orbit // 官方数据
 	{

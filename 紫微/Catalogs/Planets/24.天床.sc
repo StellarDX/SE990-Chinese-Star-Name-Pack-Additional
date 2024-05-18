@@ -41,7 +41,7 @@ Planet "11 UMi b"
 	ParentBody     "HIP 74793"
 	DiscMethod     "RadVel"
 	DiscDate       "2009"
-	MassKg         2.1259e+28
+	MassJup        10.50
 
 	Orbit
 	{

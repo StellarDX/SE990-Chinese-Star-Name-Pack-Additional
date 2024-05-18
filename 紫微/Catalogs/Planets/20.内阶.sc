@@ -110,7 +110,7 @@ Planet "PI2 UMa b/4 UMa b/HD 73108b"
 	ParentBody     "4 UMa"
 	DiscMethod     "RadVel"
 	DiscDate       "2007"
-	MassKg         1.34766875e+28
+	MassJup        7.1
 
 	Orbit
 	{

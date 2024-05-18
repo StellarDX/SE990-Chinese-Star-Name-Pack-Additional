@@ -263,7 +263,7 @@ Planet	"LAM Ser b/HIP 77257 b/HD 141004 b"
 	DiscMethod     "RadVel"
 	DiscDate       "2021"
 	Class          "IceGiant"
-	MassKg         8.123975e+25
+	MassJup        0.0428
 
 	Orbit
 	{
@@ -373,7 +373,7 @@ Planet	"OME Ser b"
 	ParentBody     "OME Ser"
 	DiscMethod     "RadVel"
 	DiscDate       "2013"
-	MassKg         3.2268125e+27
+	MassJup        1.7
 
 	Orbit
 	{

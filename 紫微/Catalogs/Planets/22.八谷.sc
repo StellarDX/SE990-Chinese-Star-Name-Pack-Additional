@@ -258,7 +258,7 @@ Planet	"6 Lyn b"
 	ParentBody     "6 Lyn"
 	DiscMethod     "RadVel"
 	DiscDate       "2008"
-	MassKg         3.81523125e+27
+	MassJup        2.010
 	Radius         86433.828
 
 	Orbit

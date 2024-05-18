@@ -69,7 +69,7 @@ Planet "PSI1 Dra Bb"
 	ParentBody      "PSI1 Dra B"
 	DiscMethod      "RadVel"
 	DiscDate        "2006"
-	MassKg          2.90413125e+27
+	MassJup         1.53
 
 	Orbit
 	{

@@ -32,7 +32,7 @@ Planet "11 Oph b"
 	ParentBody     "28 Her"
 	DiscMethod     "Imaging"
 	DiscDate       "2007"
-	MassKg         3.9860625e+28
+	MassJup        21.0
 
 	Orbit
 	{
