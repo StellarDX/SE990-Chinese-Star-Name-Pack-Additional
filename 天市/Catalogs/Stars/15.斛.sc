@@ -69,3 +69,9 @@ StarBarycenter "CCDM J16406+0413/** STF 4031/ADS 10149/PMSC 16357+0424/WDS J1640
 	AppMagn         5.761
 	Class           "B9V"
 }
+
+/*Star "斛增七"
+{
+	RA  16 48.8
+	Dec 5 32
+}*/
