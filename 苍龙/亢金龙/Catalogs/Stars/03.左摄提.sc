@@ -1,0 +1,69 @@
+// Object * ksi Boo  ---  BY Dra Variable  ---  OID=@2302652   (@@48285,0)  ---  coobox=13820 
+// Object types: BY Dra Variable,Double or Multiple Star,Variable Star,Near-IR Source (λ < 3 µm),High Proper Motion Star,Eruptive Variable,Star,Infra-Red Source,UV-emission Source,X-ray Source 
+Remove "KSI Boo"
+StarBarycenter "左摄提增一/KSI Boo/GJ 566/HIP 72659/TIC 311180437/CCDM J14513+1906AB/IDS 14468+1931 AB/PLX 3360/SPOCS 2890/LSPM J1451+1906/ASCC 871237/2MASS J14512328+1906034/USNO-B1.0 1091-00230362/37 Boo/2E 3337/2E 1449.0+1918/ADS 9413 AB/AG+19 1391/BD+19 2870/CSI+19 2870 1/GC 19991/HD 131156/HIC 72659/HR 5544/IRC +20276/JP11 2546/N30 3355/PPM 130930/RBS 1439/ROT 2124/SAO 101250/SKY# 26980/SV* SVS 2491/TD1 17778/UBV 12367/UBV 12949/[GKL99] 307/uvby98 100131156 ABV/WDS J14514+1906AB/1ES 1449+19.3/1RXS J145123.1+190606/EUVE J1451+19.1/RX J1451.3+1905/RX J1451.3+1906/[ZEH2003] RX J1451.3+1906 1/IRAS 14490+1918/V* KSI Boo/** STF 1888AB/2RE J1451+190/2RE J145122+190538/RE J1451+190/RE J145122+190551/1AXG J145123+1906/2EUVE J1451+19.1/SPOCS 621/WEB 12488/GEN# +1.00131156"
+{
+	DateUpdated     "2024-05-23"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              14 51 23.37993
+	Dec             19 6 1.6994
+	Parallax        148.98
+	AppMagn         4.593
+	Class           "G7Ve+K5Ve"
+}
+
+// Object * 32 Boo  ---  High Proper Motion Star  ---  OID=@2287742   (@@48007,0)  ---  coobox=14194 
+// Object types: Near-IR Source (λ < 3 µm),High Proper Motion Star,Star,Infra-Red Source,UV-emission Source 
+Remove "32 Boo"
+Star "左摄提增二/32 Boo/HIP 71837/Gaia DR3 1178359260166926848/TIC 420799657/PLX 3322.1/LSPM J1441+1139/TYC 914-1741-1/ASCC 957852/USNO-B1.0 1016-00240398/AG+11 1605/BD+12 2729/FK5 1382/GC 19793/GCRV 8542/GEN# +1.00129336/HD 129336/HIC 71837/HR 5481/IRAS 14393+1152/LTT 14344/N30 3322/NLTT 38114/PMC 90-93 970/PPM 130781/SAO 101152/SKY# 26702/SRS 31382/TD1 17641/UBV 12808/UBV M 20314/YZ 11 5184/[HFE83] 1044/2MASS J14414352+1139384/PLX 3322.10/WEB 12373/Gaia DR2 1178359260166926848"
+{
+	DateUpdated     "2024-05-23"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              14 41 43.5203419224
+	Dec             11 39 38.383245108
+	Parallax        8.8888
+	Class           "G8III"
+	// Measures     
+	AbsMagn         0.09
+	MassSol         2.15
+	RadSol          12.06
+	LumBol          79.14
+	Teff            4957.5
+	FeH             -23.3
+	Age             1.46
+}
+
+// Object * 31 Boo  ---  Variable Star  ---  OID=@2288454   (@@47735,5)  ---  coobox=14288 
+// Object types: Near-IR Source (λ < 3 µm),Variable Star,Star,Infra-Red Source,UV-emission Source,X-ray Source 
+Remove "31 Boo"
+Star "左摄提增三/31 Boo/HIP 71832/Gaia DR3 1172801946147903744/TIC 371124427/PLX 3321/AG+08 1774/BD+08 2903/CSV 101463/FK5 3163/GC 19789/GCRV 8541/GEN# +1.00129312/GSC 00911-01708/HD 129312/HIC 71832/HR 5480/IRAS 14391+0822/IRC +10281/NSV 6769/PMC 90-93 1352/PPM 160871/ROT 2103/SAO 120601/SKY# 26701/SV* ZI 1082/TD1 17640/TYC 911-1708-1/UBV 12807/UBV M 20312/YZ 8 6777/uvby98 100129312/2MASS J14413875+0809422/PLX 3321.00/[ZEH2003] RX J1441.6+0809 1/RX J1441.6+0809/1RXS J144138.4+080953/WEB 12372/Gaia DR2 1172801946147903744"
+{
+	DateUpdated     "2024-05-23"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              14 41 38.7511938264
+	Dec             8 9 42.352458552
+	Parallax        6.6024
+	AppMagn         4.862
+	Class           "G7IIIa"
+	// Measures     
+	AbsMagn         -1.22
+	MassSol         3.27
+	RadSol          23.25
+	LumBol          274.9
+	Teff            4874
+	FeH             -0.10
+	Age             0.370
+}
+
+// Object V* DE Boo  ---  RS CVn Variable  ---  OID=@2302338   (@@48279,7)  ---  coobox=13814 
+// Object types: RS CVn Variable,High Proper Motion Star,High Proper Motion Star,Spectroscopic Binary,High Proper Motion Star,Variable Star,Near-IR Source (λ < 3 µm),Mid-IR Source (3 to 30 µm),High Proper Motion Star,Star,Infra-Red Source,UV-emission Source,X-ray Source 
+Remove "DE Boo"
+StarBarycenter "左摄提增四/V* DE Boo/GJ 567/HIP 72848/Gaia DR3 1236929488664453376/TIC 267365256/CABS 120/PLX 3367/SBC9 820/LSPM J1453+1909/ASCC 871314/2E 3344/AG+19 1397/BD+19 2881/Ci 20 894/GC 20037/GCRV 8648/GEN# +1.00131511/GSC 01481-00694/HD 131511/HIC 72848/HR 5553/IRAS 14511+1921/LAL 27137/LFT 1153/LHS 5279/LTT 14413/NLTT 38694/NSV 6847/PPM 130966/RBS 1441/SAO 101276/SKY# 27033/SPOCS 625/TYC 1481-694-1/UBV 12969/UBV M 20439/YPAC 180/YZ 19 5383/2MASS J14532374+1909104/USNO-B1.0 1091-00230934/PLX 3367.00/1RXS J145324.3+190915/2E 1451.1+1921/EUVE J1453+19.1/RX J1453.4+1909/[ZEH2003] RX J1453.4+1909 1/WISEA J145323.43+190912.4/uvby98 100131511/WEB 12513/Gaia DR2 1236929488664453376"
+{
+	DateUpdated     "2024-05-23"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              14 53 23.7654730144
+	Dec             19 9 10.072718521
+	Parallax        85.9932
+	Class           "K0.5V"
+}
