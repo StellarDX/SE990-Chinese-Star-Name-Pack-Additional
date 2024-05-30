@@ -14,7 +14,7 @@ Cluster "NGC 5139/OME Cen/C 1323-472/CD-46 8646/CPD-46 6348/GCRV 4762 E/GCl 24/H
 	Type            "Globular"
 	AbsMagn         -10.4 // -10.3 - -10.4
 	MassSol         4.05E6
-	Radius          27.3555173853042 // 计算的值
+	RadiusLy        86
 	FeH             -1.35
 	Age             11.52
 	NStars          10412 // Simbad
