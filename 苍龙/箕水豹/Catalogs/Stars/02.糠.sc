@@ -1,0 +1,15 @@
+// Object HD 157955  ---  Star  ---  OID=@2410070   (@@53371,1)  ---  coobox=17100 
+// Object types: Near-IR Source (λ < 3 µm),Star,UV-emission Source 
+Remove "HD 157955"
+Star "糠增一/HD 157955/HIP 85442/Gaia DR3 4058692765692242432/TIC 88662501/CD-29 13563/CEL 4519/CPD-29 4713/GC 23637/GCRV 67078/GEN# +1.00157955/GSC 06838-00191/HIC 85442/HR 6494/N30 3893/PPM 266892/SAO 185417/SKY# 31511/SRS 14211/TD1 20434/TYC 6838-191-1/YZ 119 11034/[SC95] M 12/[SC96] GC 73/[SC96] Mis 461/uvby98 100157955/2MASS J17273755-2943283/Gaia DR1 4058692761277684736/WEB 14431/Gaia DR2 4058692765692242432"
+{
+	DateUpdated     "2024-05-30"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              17 27 37.5530838144
+	Dec             -29 43 28.440759612
+	Parallax        4.5112
+	AppMagn         5.974
+	Class           "B9.5IV"
+	// Measures     
+	AbsMagn         -0.75 // 计算的值
+}
