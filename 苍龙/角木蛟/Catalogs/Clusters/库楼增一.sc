@@ -17,4 +17,5 @@ Cluster "NGC 5139/OME Cen/C 1323-472/CD-46 8646/CPD-46 6348/GCRV 4762 E/GCl 24/H
 	Radius          27.3555173853042 // 计算的值
 	FeH             -1.35
 	Age             11.52
+	NStars          10412 // Simbad
 }
