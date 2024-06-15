@@ -6,7 +6,7 @@ StarBarycenter "天弁增一/5 Aql/ADS 11667 AB/CCDM J18465-0058AB/CSI-01 3559 4
 	DateUpdated     "2024-05-31"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              18 46 28.58
-	Dec             0 57 41.9
+	Dec             -0 57 41.9
 	Parallax        10.8978
 	Class           "A0V"
 }

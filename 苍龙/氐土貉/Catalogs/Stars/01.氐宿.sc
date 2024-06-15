@@ -351,7 +351,7 @@ StarBarycenter "氐宿增廿二/14 Ser/HIP 76427/Gaia DR3 4416623966942507008/TI
 	DateUpdated     "2024-05-25"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              15 36 33.7091671656
-	Dec             0 33 41.511818808
+	Dec             -0 33 41.511818808
 	Parallax        6.9067
 	AppMagn         6.504
 	Class           "K0III+A7/8"
