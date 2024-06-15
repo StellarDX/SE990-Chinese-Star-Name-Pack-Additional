@@ -85,7 +85,7 @@ Star "明堂增五/p5 Leo/HIP 54849/Gaia DR3 3804036320566852224/TIC 443589040/P
 	DateUpdated     "2024-05-06"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              11 13 45.5531027136
-	Dec             0 4 10.208010072
+	Dec             -0 4 10.208010072
 	Parallax        6.2602
 	AppMagn         5.404
 	Class           "A0V"

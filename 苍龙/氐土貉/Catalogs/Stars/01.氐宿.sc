@@ -456,7 +456,7 @@ StarBarycenter "氐宿增廿八/2 Ser/HIP 73536/Gaia DR3 4419512109110088448/TIC
 	DateUpdated     "2024-05-25"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              15 1 48.9210127896
-	Dec             0 8 25.072739448
+	Dec             -0 8 25.072739448
 	Parallax        3.2519
 	AppMagn         5.71
 	Class           "M0.5IIb"

@@ -6,7 +6,7 @@ Star "左执法增一/13 Vir/AP J12184031-0047138/HIP 60030/Gaia DR3 36980558378
 	DateUpdated     "2024-05-04"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              12 18 40.3174863528
-	Dec             0 47 13.863547104
+	Dec             -0 47 13.863547104
 	Parallax        8.6971
 	AppMagn         5.897
 	Class           "A5IV/V"

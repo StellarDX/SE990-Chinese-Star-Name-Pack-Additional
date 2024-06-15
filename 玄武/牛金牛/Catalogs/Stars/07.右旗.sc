@@ -49,7 +49,7 @@ Star "右旗增三/d Aql/HIP 95073/Gaia DR3 4262926260180886656/TIC 58619656/PLX
 	DateUpdated     "2024-06-06"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              19 20 35.6863700904
-	Dec             0 53 31.774520544
+	Dec             -0 53 31.774520544
 	Parallax        6.6587
 	AppMagn         5.451
 	Class           "B9III"
@@ -90,7 +90,7 @@ StarBarycenter "右旗增五/45 Aql/HIP 96807/Gaia DR3 4238391929503759104/TIC 2
 	DateUpdated     "2024-06-06"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              19 40 43.3170282984
-	Dec             0 37 16.402375848
+	Dec             -0 37 16.402375848
 	Parallax        9.673
 	AppMagn         5.637
 	Class           "A2V"

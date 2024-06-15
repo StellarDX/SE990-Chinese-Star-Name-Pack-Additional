@@ -108,7 +108,7 @@ Star "灵台增七/p3 Leo/HIP 54049/Gaia DR3 3804603462407805824/TIC 1008348/Pul
 	DateUpdated     "2024-05-06"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              11 3 36.5918764464
-	Dec             0 0 2.990493144
+	Dec             -0 0 2.990493144
 	Parallax        6.6158
 	AppMagn         5.927
 	Class           "K2III"

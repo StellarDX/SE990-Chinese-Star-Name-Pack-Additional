@@ -43,7 +43,7 @@ StarBarycenter "宗正增三/41 Oph/HIP 84514/Gaia DR3 4368415982703664128/WISEA
 	DateUpdated     "2024-05-16"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              17 16 36.6861216432
-	Dec             0 26 43.091198808
+	Dec             -0 26 43.091198808
 	Parallax        15.9182
 	Class           "K2III"
 }

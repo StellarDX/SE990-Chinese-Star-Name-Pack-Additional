@@ -6,7 +6,7 @@ Star "天桴增一/64 Aql/HIP 99171/** SHY 325A/WDS J20080-0041A/AP J20080180-00
 	DateUpdated     "2024-06-06"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
 	RA              20 8 1.8223368384
-	Dec             0 40 41.464645428
+	Dec             -0 40 41.464645428
 	Parallax        21.5357
 	AppMagn         5.968
 	Class           "K1III/IV"
