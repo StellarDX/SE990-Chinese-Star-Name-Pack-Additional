@@ -266,20 +266,25 @@ Star "大陵增十六/17 Per/HIP 13328/Gaia DR3 140457735662620800/TIC 77493480/
 	FeH             -0.26
 }
 
-// Object HD 18665  ---  Star  ---  OID=@12118   (@@6,5)  ---  coobox=2730 
-// Object types: Near-IR Source (λ < 3 µm),Star,Infra-Red Source 
-Remove "HD 18665"
-Star "大陵增十七/HD 18665/HIP 14066/Gaia DR3 141899710802415616/TIC 186619294/2MASS J03011540+3607045/AG+35 295/AGKR 2640/BD+35 607/DO 9673/GC 3618/GEN# +1.00018665/GSC 02351-00467/HIC 14066/IRAS 02581+3555/PPM 68022/SAO 56092/SKY# 4538/TYC 2351-467-1/Gaia DR1 141899706506787712/Gaia DR2 141899710802415616"
+// Object * 24 Per  ---  Star  ---  OID=@1599539   (@@33455,9)  ---  coobox=12287 
+// Object types: Near-IR Source (λ < 3 µm),Star,Infra-Red Source,UV-emission Source 
+Remove "24 Per"
+Star "大陵增十七/24 Per/HIP 13905/Gaia DR3 137319832555250816/TIC 269915301/2MASS J02590369+3510592/AG+34 305/BD+34 550/FK5 1082/GC 3575/GCRV 1654/GEN# +1.00018449/GSC 02334-01041/HD 18449/HIC 13905/HR 882/IRAS 02559+3459/IRC +30054/JP11 727/N30 610/PMC 90-93 714/PPM 67970/ROT 396/SAO 56052/SKY# 4484/SRS 31082/TD1 1794/TYC 2334-1041-1/UBV 2880/UBV M 9254/[HFE83] 190/WEB 2744/Gaia DR2 137319832555250816"
 {
-	DateUpdated     "2024-06-27"
+	DateUpdated     "2024-06-29"
 	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
-	RA              3 1 15.3982896384
-	Dec             36 7 4.448380116
-	Parallax        2.7125
-	AppMagn         7.25
+	RA              2 59 3.6768425424
+	Dec             35 10 59.271233124
+	Parallax        9.0501
+	AppMagn         4.93
 	Class           "K2III"
 	// Measures     
-	AbsMagn         -0.58 // 计算的值
+	AbsMagn         -0.32
+	MassSol         1.59
+	RadSol          23.56
+	LumBol          185
+	Teff            4391
+	FeH             -0.07
 }
 
 // Object * ome Per  ---  Star  ---  OID=@51273   (@@373,12)  ---  coobox=2738 
