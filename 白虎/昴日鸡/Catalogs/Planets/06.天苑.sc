@@ -126,10 +126,25 @@ Star "ALF For Bb"
 
 // Object * sig Cet  ---  Double or Multiple Star  ---  OID=@1298958   (@@26657,0)  ---  coobox=11150 
 // Object types: High Proper Motion Star,Mid-IR Source (3 to 30 µm),Double or Multiple Star,Near-IR Source (λ < 3 µm),Star,Infra-Red Source,UV-emission Source,X-ray Source 
-Star "SIG Cet A"
+// NoirLab: http://www.ctio.noirlab.edu/~atokovin/stars/stars.php?cat=HIP&number=11783%20
+
+// SIMBAD: B has 5 ref/K2.5V/no RV. PM difference of AB caused by Aab?
+// A is evolved/above MS. B is on the MS.(A.sp.type = F4IV?)
+// CHIRON 2014:RV(A,B)=-24.58,-28.26. 2017:RV(A,B)=-30.34,-28.20. 2020:RV(A)=-30.4
+Barycenter "SIG Cet A"
+{
+	ParentBody      "SIG Cet"
+	BinaryOrbit
+	{
+		Period          509484
+		Separation      7939.58079701652 // 344.40 asec
+	}
+}
+
+Star "SIG Cet Aa"
 {
 	DateUpdated     "2024-06-30"
-	ParentBody      "SIG Cet"
+	ParentBody      "SIG Cet A"
 	Class           "F5V"
 	AbsMagn         2.68
 	MassSol         1.21
@@ -139,23 +154,42 @@ Star "SIG Cet A"
 	FeH             -0.12
 	Age             2.135
 
-	BinaryOrbit // 系统生成
+	BinaryOrbit
 	{
-		RefPlane        "Equator"
-		SemiMajorAxis   1.79686295
-		Eccentricity    0.216427852
-		Inclination     0.856351733
-		AscendingNode   0
-		ArgOfPericenter 98.1281727
-		MeanAnomaly     52.5341302
+		Period          20.3
+		Epoch           2457238.6592771 // DR2: plx(A)=28.42mas/erroneous/Aa,Ab at periastron!
+		Eccentricity    0.85
+		Separation      8.2991807069898 // 0.360 asec
+		AscendingNode   22
+		ArgOfPericenter 21.6
+		Inclination     120.5
+		MeanAnomaly     0
 	}
 }
 
-Star "SIG Cet B"
+Star "SIG Cet Ab"
 {
-	ParentBody      "SIG Cet"
-	Class           "G0.7?"
+	DateUpdated     "2024-06-30"
+	ParentBody      "SIG Cet A"
+	Class           ""
+	MassSol         0.69
 }
+
+// Object HD 15767  ---  High Proper Motion Star  ---  OID=@1298956   (@@26656,17)  ---  coobox=11148 
+// Object types: High Proper Motion Star,Near-IR Source (λ < 3 µm),Double or Multiple Star,Star 
+Star "HD 15767/HIP 11759/Gaia DR3 5145956864601439488/TIC 66574369/2MASS J02314248-1516244/BD-15 447/GEN# +1.00015767/GSC 05860-01581/HIC 11759/PPM 211639/SAO 148443/TYC 5860-1581-1/UGP 37/YZ 105 661/** GWP 335B/WDS J02321-1515B/Gaia DR1 5145956860305611520/Gaia DR2 5145956864601439488"
+{
+	DateUpdated     "2024-06-30"
+	ParentBody      "SIG Cet"
+	Parallax        37.1885
+	AppMagn         8.74
+	Class           "K2.5Vk:"
+	AbsMagn         6.59 // 计算的值
+	MassSol         0.77
+	Teff            4821
+	FeH             -0.35
+}
+
 
 // Object * rho02 Eri  ---  Star  ---  OID=@624928   (@@15487,0)  ---  coobox=6186 
 // Object types: Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,Infra-Red Source,UV-emission Source,X-ray Source 
