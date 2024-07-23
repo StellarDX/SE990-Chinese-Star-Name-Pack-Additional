@@ -1,6 +1,6 @@
 // Object NAME Ori Trapezium  ---  Open Cluster  ---  OID=@808485   (@@112138,0)  ---  coobox=6479 
 // Object types: Open Cluster,Double or Multiple Star,Star,Association of Stars,Cluster of Stars,X-ray Source 
-Cluster	"Ori Trapezium/[MWC53] Id Ori/TET1 Ori/2E 1366/C 0532-054/OCl 528.0/[BDB2003] G209.01-19.36/[KPR2004b] 74/1ES 0532-05.4/2E 0532.6-0526/RX J0535.3-0523/CCDM J05353-0524/PBC J0535.1-0522/Trapezium/Ori Id/Trapezium Cluster/BD-05 1315/SWIFT J0535.3-0520/2MAXI J0535-052/Ass Ori OB 1d"
+Cluster	"伐增二/Ori Trapezium/[MWC53] Id Ori/TET1 Ori/2E 1366/C 0532-054/OCl 528.0/[BDB2003] G209.01-19.36/[KPR2004b] 74/1ES 0532-05.4/2E 0532.6-0526/RX J0535.3-0523/CCDM J05353-0524/PBC J0535.1-0522/Trapezium/Ori Id/Trapezium Cluster/BD-05 1315/SWIFT J0535.3-0520/2MAXI J0535-052/Ass Ori OB 1d"
 {
 	Galaxy  "Milky Way"
 	Type    "Open"

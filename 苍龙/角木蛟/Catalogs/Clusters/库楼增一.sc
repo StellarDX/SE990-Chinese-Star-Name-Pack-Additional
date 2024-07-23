@@ -1,7 +1,7 @@
 // Object NGC 5139  ---  Globular Cluster  ---  OID=@3375707   (@@134337,0)  ---  coobox=21595 
 // Object types: Globular Cluster,Globular Cluster,Globular Cluster,Star,Cluster of Stars,Galaxy Candidate,X-ray Source,Gamma-ray Source 
 Remove "OME Cen"
-Cluster "NGC 5139/OME Cen/C 1323-472/CD-46 8646/CPD-46 6348/GCRV 4762 E/GCl 24/HD 116790/1E 1323.8-4713/[KPS2012] MWSC 2120/ome Cen Cluster/3FGL J1326.7-4727/2FGL J1326.4-4729/FL8Y J1326.7-4729/4FGL J1326.6-4729"
+Cluster "库楼增一/NGC 5139/OME Cen/C 1323-472/CD-46 8646/CPD-46 6348/GCRV 4762 E/GCl 24/HD 116790/1E 1323.8-4713/[KPS2012] MWSC 2120/ome Cen Cluster/3FGL J1326.7-4727/2FGL J1326.4-4729/FL8Y J1326.7-4729/4FGL J1326.6-4729"
 {
 	DateUpdated     "2024-05-21"
 	Galaxy          "Milky Way"
