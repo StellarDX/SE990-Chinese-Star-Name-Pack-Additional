@@ -116,7 +116,7 @@ Star "昴宿增四(*)/HD 23753/HIP 17776/Gaia DR3 64940906245415808/TIC 44068644
 	RA              3 48 20.8167826752 // 3 41.7
 	Dec             23 25 16.495877028 // 22 51
 	//Parallax        7.6909
-	Dist            112 // Match Cluster
+	Dist            133.8784 // Match Cluster
 	AppMagn         5.45
 	Class           "B8V"
 	// Measures     
@@ -139,7 +139,7 @@ Star "昴宿增八/18 Tau/HIP 17527/Gaia DR3 69812945346809600/TIC 385508971/2MA
 	RA              3 45 9.7401340368
 	Dec             24 50 21.343198416
 	//Parallax        7.2222
-	Dist            112.274 // Match Cluster
+	Dist            136.6910667 // Match Cluster
 	AppMagn         5.64
 	Class           "B8V"
 	// Measures     
@@ -160,7 +160,7 @@ StarBarycenter "昴宿增九/16 Tau/HIP 17489/Gaia DR3 65287458566524928/TIC 385
 	RA              3 44 48.2149362048
 	Dec             24 17 22.083331452
 	//Parallax        7.3852
-	Dist            112.56 // Match Cluster
+	Dist            136.65 // Match Cluster
 	AppMagn         5.46
 	Class           "B7IV"
 }
@@ -175,7 +175,7 @@ Star "昴宿增十/24 Tau/Gaia DR3 66715105696289024/TIC 405484171/2MASS J034721
 	RA              3 47 21.0386292336
 	Dec             24 6 58.564163952
 	//Parallax        7.1999
-	Dist            112.46 // Match Cluster
+	Dist            135.5037333 // Match Cluster
 	AppMagn         6.28
 	Class           "A0V"
 	// Measures     
@@ -197,7 +197,7 @@ StarBarycenter "昴宿增十二/28 Tau/HIP 17851/LAMOST J034912.80+240820.0/Gaia
 	RA              3 49 11.2165977912
 	Dec             24 8 12.156712008
 	//Parallax        7.2414
-	Dist            112.87
+	Dist            136.5670667 // Match Cluster
 	AppMagn         5.09
 	Class           "B8Vne"
 }
@@ -212,7 +212,7 @@ Star "昴宿增十三/HD 23923/HIP 17900/Gaia DR3 66453490649681280/TIC 44069592
 	RA              3 49 43.5315887616
 	Dec             23 42 42.667696476
 	//Parallax        7.4625
-	Dist            112.655 // Match Cluster
+	Dist            135.2047333 // Match Cluster
 	AppMagn         6.153
 	Class           "B8V"
 	// Measures     

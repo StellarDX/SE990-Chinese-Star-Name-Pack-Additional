@@ -9,7 +9,7 @@ StarBarycenter "TET1 Ori A/HIP 26220/Gaia DR3 3017364132050194688/TIC 427394748/
 	RA              5 35 15.8254015008
 	Dec             -5 23 14.33469948
 	//Parallax        2.6427
-	Dist            428.022
+	Dist            394.983
 	AppMagn         6.73
 	Class           "B0V"
 }
@@ -23,7 +23,7 @@ StarBarycenter "TET1 Ori B/Gaia DR3 3017364132049943680/TIC 427394728/Gaia DR2 3
 	RA              5 35 16.1339860056
 	Dec             -5 23 6.784444248
 	//Parallax        2.6548
-    Dist            428.031
+    Dist            394.982
 	AppMagn         7.96
 	Class           "B1V"
 }
@@ -37,7 +37,7 @@ StarBarycenter "TET1 Ori C/HIP 26221/Gaia DR3 3017364063330718080/TIC 427394772/
 	RA              5 35 16.466296728
 	Dec             -5 23 22.92181188
 	//Parallax        2.5014
-	Dist            428.034
+	Dist            395.005
 	AppMagn         5.13
 	Class           "O7Vp"
 }
@@ -51,7 +51,7 @@ StarBarycenter "TET1 Ori D/HIP 26224/Gaia DR3 3017364063330465152/VISION J053517
 	RA              5 35 17.2574479992
 	Dec             -5 23 16.570738104
 	//Parallax        2.282
-	Dist            428.026
+	Dist            395.043
 	AppMagn         6.7
 	Class           "B1.5Vp"
 }
@@ -65,7 +65,7 @@ StarBarycenter "TET1 Ori E/Gaia DR3 3017364127743288704/TIC 427394735/ADS 4186 E
 	RA              5 35 15.7721814864
 	Dec             -5 23 9.8893167
 	//Parallax        2.611
-    Dist            428.017
+    Dist            395.033
 	Class           "G2IV"
 }
 
@@ -78,7 +78,7 @@ StarBarycenter "TET1 Ori F/Gaia DR3 3017364063331140224/Gaia DR2 301736406333114
 	RA              5 35 16.7270624568
 	Dec             -5 23 25.197757584
 	//Parallax        2.5502
-	Dist            428.019
+	Dist            395.033
 	AppMagn         10.122
 	Class           "B8"
 }
@@ -92,7 +92,7 @@ StarBarycenter "TET1 Ori G/TIC 427394755/MAX 116/COUP 826/GMR 6/JW 524/LV 2/MLLA
 	RA              5 35 16.723
 	Dec             -5 23 16.56
 	Class           "K0.7"
-	Dist            428.026
+	Dist            395.033
 }
 
 // Object * tet01 Ori H  ---  Young Stellar Object  ---  OID=@801916   (@@16454,13)  ---  coobox=6479 
@@ -104,7 +104,7 @@ StarBarycenter "TET1 Ori H/VISION J05351579-0523225/TIC 427394770/ADS 4186 H/BD-
 	RA              5 35 15.793
 	Dec             -5 23 22.51
 	Class           "~"
-	Dist            428.02
+	Dist            395.01
 }
 
 
@@ -115,7 +115,7 @@ Star "Trapezium Cluster Central Black Hole"
 	CenterOf "Trapezium Cluster"
 	RA       5 35 16.49
 	Dec     -5 23 13.9
-	Dist     428.02 // 412
+	Dist     395.02
 	Class    "Blackhole"
 	MassSol  100
 }
