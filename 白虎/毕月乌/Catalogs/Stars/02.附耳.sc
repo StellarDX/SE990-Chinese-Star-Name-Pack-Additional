@@ -1,0 +1,27 @@
+// Object * sig01 Tau  ---  Spectroscopic Binary  ---  OID=@719918   (@@19149,2)  ---  coobox=4897 
+// Object types: Spectroscopic Binary,High Proper Motion Star,Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,Infra-Red Source,UV-emission Source 
+Remove "SIG1 Tau"
+StarBarycenter "附耳增一/SIG1 Tau/HIP 21673/Gaia DR3 3309925278333043328/TIC 245911904/2MASS J04390921+1547597/PLX 1026.1/SBC9 264/91 Tau/AG+15 396/BD+15 665/BDS 2293 B/CCDM J04392+1552B/CEL 449/GAT 316/GC 5662/GCRV 2727/GEN# +1.00029479/GSC 01266-01419/HD 29479/HIC 21673/HR 1478/IDS 04335+1543 B/IRAS 04362+1542/PPM 120110/ROT 664/SAO 94051/SBC7 188/SKY# 7230/TD1 3414/TYC 1266-1419-1/UBV 4474/UBV M 10255/YPAC 356/YZ 15 1252/uvby98 100029479/PLX 1026.10/WDS J04393+1555B/** STF 4011B/Renson 7550/WEB 4163/Gaia DR2 3309925278333043328"
+{
+	DateUpdated     "2024-07-01"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              4 39 9.2232260856
+	Dec             15 47 59.411241672
+	Parallax        17.0392
+	AppMagn         5.076
+	Class           "A4m"
+}
+
+// Object * 89 Tau  ---  Double or Multiple Star  ---  OID=@719296   (@@19662,3)  ---  coobox=4875 
+// Object types: High Proper Motion Star,Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,Star,Infra-Red Source,UV-emission Source 
+Remove "89 Tau"
+StarBarycenter "附耳增二/附耳增三/89 Tau/HIP 21588/Gaia DR3 3309990523179108480/TIC 245905821/2MASS J04380942+1601598/Cl* Melotte 25 S 41/AG+15 392/BD+15 661/CCDM J04382+1602A/CEL 447/CSI+15 661 1/GC 5643/GCRV 2709/GEN# +5.20250103/GSC 01266-01417/HD 29375/HIC 21588/HR 1472/IDS 04325+1551 A/JP11 4903/N30 973/PMC 90-93 5884/PPM 120091/ROT 3892/SAO 94043/SKY# 7196/TD1 3389/TYC 1266-1417-1/UBV 4461/UBV M 41309/YZ 15 1246/uvby98 520250103/Cl Melotte 25 103/Cl Melotte 25 1031/WDS J04382+1602Aa,Ab/AKARI-IRC-V1 J0438094+160159/IRAS 04352+1555/** PAT 12/WDS J04382+1602A/** BUP 65A/[RSP2011] 472/WEB 4144/Gaia DR2 3309990523179108480"
+{
+	DateUpdated     "2024-07-01"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              4 38 9.4406126112
+	Dec             16 1 59.722631112
+	Parallax        17.8209
+	AppMagn         5.776
+	Class           "F0V"
+}

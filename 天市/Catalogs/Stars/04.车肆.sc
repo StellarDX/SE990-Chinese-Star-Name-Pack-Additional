@@ -1,0 +1,36 @@
+// Object * 23 Oph  ---  Star  ---  OID=@2608642   (@@51997,19)  ---  coobox=17253 
+// Object types: Near-IR Source (λ < 3 µm),Star,Infra-Red Source 
+Remove "23 Oph"
+Star "车肆增一/23 Oph/HIP 82730/Gaia DR3 4341074083458152704/TIC 181532011/PLX 3840/BD-05 4374/FK5 3342/GC 22783/GCRV 9733/GEN# +1.00152601/GSC 05063-01633/HD 152601/HIC 82730/HR 6280/IRAS 16519-0604/IRC -10351/N30 3776/PMC 90-93 1391/PPM 200147/ROT 2393/SACS 367/SAO 141431/SKY# 30460/TYC 5063-1633-1/UBV 14322/UBV M 21783/YZ 0 4024/YZ 96 5807/2MASS J16543569-0609143/PLX 3840.00/Gaia DR1 4341074079160233088/WEB 13984/Gaia DR2 4341074083458152704"
+{
+	DateUpdated     "2024-05-16"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              16 54 35.694062064
+	Dec             -6 9 14.331443508
+	Parallax        12.8432
+	AppMagn         5.23
+	Class           "K1IICNIII"
+	// Measures     
+	AbsMagn         0.77 // 计算的值
+}
+
+// Object * 30 Oph  ---  High Proper Motion Star  ---  OID=@2623206   (@@52412,1)  ---  coobox=17266 
+// Object types: High Proper Motion Star,Near-IR Source (λ < 3 µm),Variable Star,Double or Multiple Star,Star,Infra-Red Source 
+Remove "30 Oph"
+Star "车肆增二/30 Oph/HIP 83262/Gaia DR3 4365395040146977408/TIC 176138470/PLX 3862/BD-04 4215/CCDM J17011-0413A/CSI-04 4215 1/DO 4202/FK5 1445/GC 22937/GCRV 9801/GEN# +1.00153687/GSC 05072-01228/HD 153687/HIC 83262/HR 6318/IDS 16557-0404 A/IRAS 16583-0408/IRAS F16584-0408/IRC +00294/N30 3801/NSV 8111/PMC 90-93 1020/PPM 200261/RAFGL 5082S/ROT 2400/SAO 141483/SKY# 30666/TYC 5072-1228-1/UBV M 21850/UBV 14375/USNO 870/YZ 94 5804/[B10] 4323/[DML87] 431/uvby98 100153687 A/2MASS J17010360-0413217/PLX 3862.00/WDS J17011-0413A/WEB 14072/Gaia DR2 4365395040146977408"
+{
+	DateUpdated     "2024-05-16"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              17 1 3.6017776608
+	Dec             -4 13 21.517847868
+	Parallax        8.9274
+	AppMagn         4.812
+	Class           "K4III"
+	// Measures     
+	AbsMagn         -0.65
+	MassSol         2.52270319099139 // log(g) = 1.73 cm/s^2
+	RadSol          35.89
+	LumBol          299.8
+	Teff            4009.00
+	FeH             -0.03
+}

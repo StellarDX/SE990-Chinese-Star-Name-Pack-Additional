@@ -1,0 +1,27 @@
+// Object * pi.01 Peg  ---  High Proper Motion Star  ---  OID=@1526342   (@@31614,8)  ---  coobox=9697 
+// Object types: High Proper Motion Star,Red Giant Branch star,Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,Infra-Red Source 
+Remove "PI1 Peg"
+StarBarycenter "杵增一(危宿)/PI1 Peg/Gaia DR3 1899240933502898944/IDS 22048+3241 A/TIC 162459565/PLX 5360/27 Peg/ADS 15672 A/AG+32 2183/BD+32 4349/CCDM J22092+3310A/CSI+32 4349 1/FK5 833/GC 30995/GCRV 13922/GEN# +1.00210354/GSC 02724-02355/HD 210354/HIC 109352/HIP 109352/HR 8449/N30 4882/PMC 90-93 583/PPM 87450/SAO 72064/IRAS 22069+3255/AKARI-IRC-V1 J2209135+331020/SKY# 42212/TYC 2724-2355-1/UBV 18938/UBV M 26169/[HFE83] 1485/2MASS J22091364+3310203/PLX 5360.00/WDS J22092+3310A/WEB 19649/Gaia DR2 1899240933502898944"
+{
+	DateUpdated     "2024-06-13"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              22 9 13.6250956656
+	Dec             33 10 20.477239752
+	Parallax        11.2851
+	AppMagn         5.582
+	Class           "G6III:"
+}
+
+// Object * 38 Peg  ---  Double or Multiple Star  ---  OID=@1527145   (@@32005,0)  ---  coobox=10048 
+// Object types: Near-IR Source (λ < 3 µm),Double or Multiple Star,Star,UV-emission Source 
+Remove "38 Peg"
+StarBarycenter "杵增二(危宿)/38 Peg/Gaia DR3 1901075056335332608/TIC 100628936/AG+32 2226/BD+31 4708/FK5 1590/GC 31430/GCRV 14144/GEN# +1.00213323/GSC 02739-02138/HD 213323/HIC 111068/HIP 111068/HR 8574/N30 4956/PMC 90-93 1128/PPM 87852/ROT 3275/SAO 72406/SKY# 42818/SRS 31590/TD1 29136/TYC 2739-2138-1/UBV 19231/UBV M 26441/uvby98 100213323/2MASS J22300181+3234214/WDS J22300+3234AB/** CHR 110/WEB 19885/Gaia DR2 1901075056335332608"
+{
+	DateUpdated     "2024-06-13"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              22 30 1.8144555624
+	Dec             32 34 21.498517884
+	Parallax        8.2435
+	AppMagn         5.65
+	Class           "B9.5V"
+}

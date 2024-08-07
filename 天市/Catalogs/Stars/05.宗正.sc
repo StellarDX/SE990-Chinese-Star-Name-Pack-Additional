@@ -1,0 +1,49 @@
+// Object * 61 Oph A  ---  Star  ---  OID=@2653569   (@@54156,5)  ---  coobox=18083 
+// Object types: Near-IR Source (λ < 3 µm),Double or Multiple Star,Star 
+Remove "61 Oph" // 光学双星
+Star "宗正增一/61 Oph A/HIP 86831/Gaia DR3 4376054289983293696/TIC 361299966/ADS 10750 A/AG+02 2144/BD+02 3390/CCDM J17446+0235A/CSI+02 3390 1/GC 24077/GCRV 10254/GEN# +1.00161270/HD 161270/HIC 86831/HR 6609/IDS 17396+0237 A/PPM 164510/ROT 2484/SAO 122690/SKY# 32077/UBV M 22374/YZ 2 5896/uvby98 100161270 A/2MASS J17443409+0234460/WDS J17446+0235A/TYC 419-2147-1/WEB 14647/Gaia DR2 4376054289983293696/** STF 2202A"
+{
+	DateUpdated     "2024-05-16"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              17 44 34.091394264
+	Dec             2 34 46.012245564
+	Parallax        10.3273
+	AppMagn         6.18
+	Class           "A0IV"
+	// Measures     
+	AbsMagn         1.25 // 计算的值
+}
+
+// Object * sig Oph  ---  Variable Star  ---  OID=@2668261   (@@53248,7)  ---  coobox=18060 
+// Object types: Near-IR Source (λ < 3 µm),Variable Star,Star,Infra-Red Source,UV-emission Source 
+Remove "SIG Oph"
+Star "宗正增二/SIG Oph/HIP 85355/Gaia DR3 4389237503121158016/TIC 328070002/PLX 3960/49 Oph/AG+04 2129/BD+04 3422/FK5 1459/GC 23621/GCRV 10081/GEN# +1.00157999/GSC 00409-01922/HD 157999/HIC 85355/HR 6498/IRAS 17240+0410/IRC +00304/JP11 2857/N30 3890/NSV 8664/PMC 90-93 1033/PPM 164002/RAFGL 1969/ROT 2451/SAO 122387/SKY# 31475/TD1 20440/TYC 409-1922-1/UBV 14877/UBV M 22192/YZ 4 5773/uvby98 100157999/2MASS J17263087+0408252/PLX 3960.00/WEB 14413/Gaia DR2 4389237503120493952"
+{
+	DateUpdated     "2024-05-16"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              17 26 30.8807335272
+	Dec             4 8 25.293765444
+	Parallax        3.7578
+	AppMagn         4.31
+	Class           "K2II"
+	// Measures     
+	AbsMagn         -2.85
+	MassSol         4.87
+	RadSol          94
+	LumBol          1995 // 1995 - 2032
+	Teff            3986
+	FeH             -0.07
+}
+
+// Object * 41 Oph  ---  Double or Multiple Star  ---  OID=@2637644   (@@52811,2)  ---  coobox=17365 
+// Object types: Near-IR Source (λ < 3 µm),Mid-IR Source (3 to 30 µm),Double or Multiple Star,Star,Infra-Red Source,UV-emission Source,X-ray Source 
+Remove "41 Oph"
+StarBarycenter "宗正增三/41 Oph/HIP 84514/Gaia DR3 4368415982703664128/WISEA J171636.67-002643.7/TIC 176481192/PLX 3918/ADS 10429 AB/AG-00 2186/BD-00 3255/CCDM J17166-0027AB/GC 23320/GCRV 9962/GSC 05066-01267/HD 156266/HIC 84514/HR 6415/IDS 17114-0020 AB/IRAS 17140-0023/IRC +00299/JP11 2837/PPM 180026/ROT 2427/SAO 141586/SKY# 31140/TD1 20181/UBV 14667/UBV M 22059/YPAC 566/YZ 90 4297/2MASS J17163669-0026430/PLX 3918.00/WDS J17166-0027AB/** A 2984AB/uvby98 100156266/WEB 14269/1RXS J171638.2-002635/GEN# +1.00156266/UCAC4 448-067703/WISE J171636.79-002641.8/Gaia DR2 4368415982703664128"
+{
+	DateUpdated     "2024-05-16"
+	// Coordinate System: ICRS, Epoch: J2000, Equinox: 2000 
+	RA              17 16 36.6861216432
+	Dec             -0 26 43.091198808
+	Parallax        15.9182
+	Class           "K2III"
+}
