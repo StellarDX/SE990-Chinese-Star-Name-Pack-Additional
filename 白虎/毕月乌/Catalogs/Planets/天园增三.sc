@@ -1,10 +1,12 @@
 // ExoPlanets for 82 G. Eridani
 // Semi-hypothetical planetary system
 
+Remove "e Eri" {ParentBody "e Eri system"}
 Remove "HD 20794 b"{ParentBody "HD 20794"}
 Remove "HD 20794 c"{ParentBody "HD 20794"}
 Remove "HD 20794 d"{ParentBody "HD 20794"}
 Remove "HD 20794 e"{ParentBody "HD 20794"}
+Remove "HD 20794 f"{ParentBody "HD 20794"}
 
 // Reference:
 // Real objects: https://en.wikipedia.org/wiki/82_G._Eridani
